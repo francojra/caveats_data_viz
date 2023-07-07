@@ -1,0 +1,9 @@
+---
+title: "Ressalvas para Visualização de DadosUntitled"
+format: html
+editor: visual
+---
+
+### Cortar ou não cortar (o eixo y)
+
+Cortar ou não cortar o eixo y é um dos tópicos mais discutidos na visualização de dados. A questão envolve se o eixo y deve ou não começar do zero.
