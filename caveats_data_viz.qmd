@@ -20,4 +20,14 @@ Veja como ocorrem diferenças na comparação das barras entre países quando el
 
 **Gráfico de linhas**: nesses tipo não há consenso, mesmo que não inicie do zero.
 
-#### 
+Nesse caso abaixo não ocorre problema devido ao eixo y não iniciar do zero.
+
+![](images/CBPC_households.png){fig-align="center"}
+
+Nesses casos abaixo pode ocorrer problemas na interpretação da mudança da variável dependente ao longo do tempo quando ela começa do zero, pois a escala camufla as variações. Veja esses dois gráficos.
+
+![](images/Global-2-copy-600x337.jpg){fig-align="center"}
+
+![](images/Global-1-copy-600x315.jpg){fig-align="center"}
+
+![](){fig-align="center"}
