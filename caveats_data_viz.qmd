@@ -10,8 +10,14 @@ Cortar ou não cortar o eixo y é um dos tópicos mais discutidos na visualizaç
 
 Usar gráficos de barras que não começam do zero é ruim, entretanto, em gráficos de séries temporais não há problemas. Os gráficos de barras enfatizam a magnitude absoluta dos valores associados a cada categoria. Enquanto um gráfico de linhas enfatiza a mudança da variável dependente ao longo do tempo (eixo x).
 
--   **Gráfico de barras**: nesse tipo de gráfico existe um consenso em que o eixo y deve começar do zero.
+**Gráfico de barras**: nesse tipo de gráfico existe um consenso em que o eixo y deve começar do zero.
 
--   **Gráfico de linhas**: nesses tipo não há consenso, mesmo que não inicie do zero.
+Veja como ocorrem diferenças na comparação das barras entre países quando elas começam do zero e quando não começam.
+
+![Barras com eixo y não começando do zero.](images/GTAI_average_hours.gif){fig-align="center" width="500"}
+
+![Barras com eixo y começando do zero.](images/GTAI_redrawn.png){fig-align="center"}
+
+**Gráfico de linhas**: nesses tipo não há consenso, mesmo que não inicie do zero.
 
 #### 
