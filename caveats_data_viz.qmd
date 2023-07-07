@@ -7,3 +7,11 @@ editor: visual
 ### Cortar ou não cortar (o eixo y)
 
 Cortar ou não cortar o eixo y é um dos tópicos mais discutidos na visualização de dados. A questão envolve se o eixo y deve ou não começar do zero.
+
+Usar gráficos de barras que não começam do zero é ruim, entretanto, em gráficos de séries temporais não há problemas. Os gráficos de barras enfatizam a magnitude absoluta dos valores associados a cada categoria. Enquanto um gráfico de linhas enfatiza a mudança da variável dependente ao longo do tempo (eixo x).
+
+-   **Gráfico de barras**: nesse tipo de gráfico existe um consenso em que o eixo y deve começar do zero.
+
+-   **Gráfico de linhas**: nesses tipo não há consenso, mesmo que não inicie do zero.
+
+#### 
