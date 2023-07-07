@@ -30,4 +30,8 @@ Nesses casos abaixo pode ocorrer problemas na interpretação da mudança da var
 
 ![](images/Global-1-copy-600x315.jpg){fig-align="center"}
 
-![](){fig-align="center"}
+Entretanto, aqui vemos um caso contrário em que não começar o eixo y do zero pode superestimar os dados.
+
+![](images/CO1-1-copy-600x384.jpg){fig-align="center" width="1406"}
+
+![](images/CO2-2-copy.jpg){fig-align="center"}
