@@ -67,6 +67,10 @@ Os gráficos de pizza podem ficar ainda piores quando são adicionadas as seguin
 
 #### Alternativas aos gráficos de pizza
 
-Oa gráficos de barras são as melhores alternativas aos gráficos de pizza. Se você tem muitas variáveis, você também pode considerar o lollipop, um gráfico mais elegante que o de barras, como este abaixo:
+Oa gráficos de barras são as melhores alternativas aos gráficos de pizza. Se você tem muitas variáveis, você também pode considerar o lollipop, um gráfico mais elegante que o de barras, como este abaixo.
 
-![](images/download%20(2).png){fig-align="center"}
+![](images/download%20(2)-01.png){fig-align="center"}
+
+Outra alternativa é criar um treemap se o seu objetivo é descrever do que o todo é composto. Veja um exemplo de treemap abaixo.
+
+![](images/download%20(3)-01.png){fig-align="center"}
