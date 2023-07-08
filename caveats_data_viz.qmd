@@ -2,6 +2,7 @@
 title: "Ressalvas para Visualização de DadosUntitled"
 format: html
 editor: visual
+date: today
 ---
 
 ### Cortar ou não cortar (o eixo y)
@@ -39,3 +40,11 @@ Entretanto, aqui vemos um caso contrário em que não começar o eixo y do zero 
 ### Gráficos de pizza
 
 Costumam ser ruins por definição. Um gráfico de pizza mostra um circulo dividido em setores em que cada um representa a proporção do todo. Ele é frequentemente usado para mostrar porcentagens, onde a soma dos setores é igual a 100%.
+
+O problema é que os olhos humanos são ruins em ler ângulos. Compare abaixo os três gráficos de pizza e tente identificar quais as cores que apresentam as maiores porcentagens.
+
+![](images/download.png){fig-align="center"}
+
+Agora analise as barras abaixo com os respectivos valores. Veja que, de forma mais clara, nós conseguimos perceber as diferenças entre as barras.
+
+![](images/download%20(1).png){fig-align="center"}
