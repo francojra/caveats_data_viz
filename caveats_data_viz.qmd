@@ -1,11 +1,13 @@
 ---
-title: "Ressalvas para Visualização de DadosUntitled"
+title: "Ressalvas para Visualização de Dados"
 format: html
 editor: visual
 date: today
 ---
 
-### Cortar ou não cortar (o eixo y)
+### Gráficos de barras e linhas
+
+#### cortar ou não cortar (o eixo y)?
 
 Cortar ou não cortar o eixo y é um dos tópicos mais discutidos na visualização de dados. A questão envolve se o eixo y deve ou não começar do zero.
 
@@ -48,3 +50,15 @@ O problema é que os olhos humanos são ruins em ler ângulos. Compare abaixo os
 Agora analise as barras abaixo com os respectivos valores. Veja que, de forma mais clara, nós conseguimos perceber as diferenças entre as barras.
 
 ![](images/download%20(1).png){fig-align="center"}
+
+Os gráficos de pizza podem ficar ainda piores quando são adicionadas as seguintes características:
+
+-   3D;
+
+-   Legenda ao lado;
+
+-   Porcentagens que não somam 100%;
+
+-   Muitos itens;
+
+-   Gráficos de pizza explodidas (com partes separadas).
