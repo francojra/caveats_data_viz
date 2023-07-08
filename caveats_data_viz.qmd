@@ -114,3 +114,9 @@ Se você tem uma grande quantidade de amostras, usar jitter não é uma boa opç
 ![](images/download%20(7).png){fig-align="center"}
 
 Com esse gráfico fica bem claro que cada grupo tem diferentes distribuições. A distribuição bimodal do grupo B se torna evidente. Gráficos de violino é uma poderosa forma de exibir informações da distribuição dos dados.
+
+#### Adicionando o tamanho da amostra
+
+No gráfico anterior, o tamanho da amostra (n) de cada grupo está definido abaixo do nome. Isso é uma boa prática, pois mostra que o grupo C está sub-representado. Entretanto, algumas vezes é melhor mostrar os pontos dos dados por eles mesmos. Assim, uma boa alternativa é exibir a metade do violino junto aos dados brutos em forma de histograma. Veja o gráfico abaixo.
+
+![](images/download%20(8).png){fig-align="center"}
