@@ -74,3 +74,13 @@ Oa gráficos de barras são as melhores alternativas aos gráficos de pizza. Se 
 Outra alternativa é criar um treemap se o seu objetivo é descrever do que o todo é composto. Veja um exemplo de treemap abaixo.
 
 ![](images/download%20(3)-01.png){fig-align="center"}
+
+### O boxplot e suas armadilhas
+
+O boxplot permite um bom resumo de uma ou mais variáveis numéricas. Um boxplot é composto de vários elementos:
+
+1.  A linha que divide o box em 2 partes representa a mediana dos dados. Se a mediana é 10, significa que existem o mesmo número de dados acima e abaixo de 10.
+
+2.  Os finais do box representam os quartis inferior (Q1) e superior (Q3). Se o terceiro quartil é 15, isso significa que 75% das observações são menores que 15.
+
+3.  
