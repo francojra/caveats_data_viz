@@ -92,3 +92,6 @@ O boxplot permite um bom resumo de uma ou mais variáveis numéricas. Um boxplot
 Veja um esquema da representação de um boxplot:
 
 ![A anatomia de um boxplot.](images/download%20(4).png){fig-align="center"}
+
+O boxplot pode resumir a distribuição de uma variável numérica para vários grupos.
+
