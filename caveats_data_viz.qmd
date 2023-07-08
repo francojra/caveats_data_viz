@@ -106,3 +106,9 @@ Se a quantidade de observações que você está trabalhando não é muito grand
 ![](images/download%20(6).png)
 
 No gráfico acima alguns padrões aparecem mais claramente. O grupo C tem um pequeno tamanho amostral comparado aos outros grupos. Isso definitivamente deve ser algo que você deve encontrar antes de afirmar que o grupo C é o que apresenta o maior valor. Além disso, é perceptível que o grupo B apresenta uma distribuição bimodal (pontos distribuídos em dois subgrupos, com y em torno de 18 e 13).
+
+#### Alternando para o gráfico de violino
+
+Se você tem uma grande quantidade de amostras, usar jitter não é uma boa opção devido a alta sobreposição dos pontos, tornando a figura ininterpretável. Uma alternativa, é usar o gráfico de violino, que descreve a distribuição dos dados de cada grupo.
+
+![](images/download%20(7).png){fig-align="center"}
