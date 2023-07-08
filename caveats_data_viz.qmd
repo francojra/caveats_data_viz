@@ -19,9 +19,9 @@ Usar gráficos de barras que não começam do zero é ruim, entretanto, em gráf
 
 Veja como ocorrem diferenças na comparação das barras entre países quando elas começam do zero e quando não começam.
 
-![Barras com eixo y não começando do zero.](images/GTAI_average_hours.gif){fig-align="center" width="500"}
+![](images/GTAI_average_hours.gif){fig-align="center" width="500"}
 
-![Barras com eixo y começando do zero.](images/GTAI_redrawn.png){fig-align="center"}
+![](images/GTAI_redrawn.png){fig-align="center"}
 
 **Gráfico de linhas**: nesses tipo não há consenso, mesmo que não inicie do zero.
 
@@ -79,8 +79,16 @@ Outra alternativa é criar um treemap se o seu objetivo é descrever do que o to
 
 O boxplot permite um bom resumo de uma ou mais variáveis numéricas. Um boxplot é composto de vários elementos:
 
-1.  A linha que divide o box em 2 partes representa a mediana dos dados. Se a mediana é 10, significa que existem o mesmo número de dados acima e abaixo de 10.
+1.  A linha que divide o box em 2 partes representa a mediana, ou quartil 2 (Q2), dos dados. Se a mediana é 10, significa que existem o mesmo número de dados acima e abaixo de 10.
 
 2.  Os finais do box representam os quartis inferior (Q1) e superior (Q3). Se o terceiro quartil é 15, isso significa que 75% das observações são menores que 15.
 
-3.  
+3.  A diferença entre os quartis 1 e 3 é chamada de distância interquartis (interquartile range - IQR).
+
+4.  Os extremos das linhas (valores mais alto e mais baixo) são interpretados como Q3 + 1.5 x IQR e Q1 - 1.5x IQR, respectivamente.
+
+5.  Pontos extremos que estão além das linhas representam os outliers.
+
+Veja um esquema da representação de um boxplot:
+
+![A anatomia de um boxplot.](images/download%20(4).png){fig-align="center"}
