@@ -93,5 +93,14 @@ Veja um esquema da representação de um boxplot:
 
 ![A anatomia de um boxplot.](images/download%20(4).png){fig-align="center"}
 
-O boxplot pode resumir a distribuição de uma variável numérica para vários grupos.
+O boxplot pode resumir a distribuição de uma variável numérica para vários grupos. Entretanto, resumir pode também significar perda de informações, e isto pode ser uma armadilha. Se considerarmos o boxplot abaixo, é fácil concluir que o grupo C tem um maior valor comparado aos outros grupos. Entretanto, nós não podemos ver a distribuição dos pontos nem o número de observações.
 
+![](images/download%20(5).png)
+
+Vamos ver o que acontece com o boxplot quando adicionamos novos elementos.
+
+#### Adicionando jitter
+
+Se a quantidade de observações que você está trabalhando não é muito grande, adicionar jitter no topo do boxplot pode tornar o gráfico mais confiável e perspicaz.
+
+![](images/download%20(6).png)
