@@ -112,3 +112,5 @@ No gráfico acima alguns padrões aparecem mais claramente. O grupo C tem um peq
 Se você tem uma grande quantidade de amostras, usar jitter não é uma boa opção devido a alta sobreposição dos pontos, tornando a figura ininterpretável. Uma alternativa, é usar o gráfico de violino, que descreve a distribuição dos dados de cada grupo.
 
 ![](images/download%20(7).png){fig-align="center"}
+
+Com esse gráfico fica bem claro que cada grupo tem diferentes distribuições. A distribuição bimodal do grupo B se torna evidente. Gráficos de violino é uma poderosa forma de exibir informações da distribuição dos dados.
