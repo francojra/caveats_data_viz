@@ -120,3 +120,11 @@ Com esse gráfico fica bem claro que cada grupo tem diferentes distribuições. 
 No gráfico anterior, o tamanho da amostra (n) de cada grupo está definido abaixo do nome. Isso é uma boa prática, pois mostra que o grupo C está sub-representado. Entretanto, algumas vezes é melhor mostrar os pontos dos dados por eles mesmos. Assim, uma boa alternativa é exibir a metade do violino junto aos dados brutos em forma de histograma. Veja o gráfico abaixo.
 
 ![](images/download%20(8).png){fig-align="center"}
+
+### O problema das barras de erro
+
+As barras de erro dão uma ideia geral da precisão dos dados, ou inversamente, a que distância do valor relatado o valor verdadeiro (sem erros) pode estar. Se o valor exibido nas barras é resultado de uma agregação (como os valores médios de vários pontos), você pode querer inserir as barras de erro.
+
+![](images/download-01.png){fig-align="center"}
+
+No gráfico acima 5 grupos são registrados. A altura das barras representa os valores médios. As barras de erro em preto informam como as observações estão dispersas em volta da média. Por exemplo, parece que as medidas do grupo B são mais precisas que as do grupo E.
