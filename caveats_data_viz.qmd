@@ -148,3 +148,5 @@ O segundo problema das barras de erro é que elas são usadas para mostrar difer
 -   [Desvio padrão (SD):]{.underline} representa a quantidade de dispersão da variável. Calculada como a raiz quadrada da variância.
 
 -   [Erro padrão (SE):]{.underline} desvio padrão da média da variável, calculado como o desvio padrão dividido pela raiz quadrada do tamanho da amostra. Por padrão, o SE é menor que o SD. Com uma grande amostra o SE tende a se aproximar de 0.
+
+-   [Intervalo de confiança (CI):]{.underline} é definido de modo que haja uma probabilidade especificada de que um valor esteja dentro dele. É calculado como t \* SE onde t é o valor da distribuição de t-student para um alfa específico. O valor dele é frequentemente arredondado para 1,96 (para uma grande amostra).
