@@ -144,3 +144,7 @@ Sempre mostre os pontos de dados individuais se você puder.
 #### O que é uma barra de erro?
 
 O segundo problema das barras de erro é que elas são usadas para mostrar diferentes métricas, e não é sempre clara que ela está sendo mostrada. Três tipos de valores são comumente usados para barras de erro, algumas vezes dando resultados muito diferentes. Aqui estão as definições gerais dos erros e como calculá-los.
+
+-   [Desvio padrão (SD):]{.underline} representa a quantidade de dispersão da variável. Calculada como a raiz quadrada da variância.
+
+-   [Erro padrão (SE):]{.underline} desvio padrão da média da variável, calculado como o desvio padrão dividido pela raiz quadrada do tamanho da amostra. Por padrão, o SE é menor que o SD. Com uma grande amostra o SE tende a se aproximar de 0.
