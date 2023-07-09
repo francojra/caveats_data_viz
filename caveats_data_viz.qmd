@@ -160,3 +160,9 @@ Aqui está uma aplicação dessas três métricas do famoso banco de dados Iris.
 ::: {.callout-caution appearance="simple"}
 Sempre especifique qual a métrica você usou para as barras de erro.
 :::
+
+#### Soluções alternativas
+
+É melhor evitar as barras de erros o máximo que puder. Claro que não é possível se você tiver apenas estatísticas resumidas. Mas se você conhece os pontos individuais, apresente eles. Várias alternativas são possíveis. O boxplot com jitter é ideal para uma relativamente pequena quantidade de dados. O gráfico de violino é uma outra possibilidade se você tem uma grande quantidade de amostras.
+
+![](images/download%20(3)-02.png){fig-align="center"}
