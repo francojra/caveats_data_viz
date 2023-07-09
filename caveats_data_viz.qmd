@@ -128,3 +128,9 @@ As barras de erro dão uma ideia geral da precisão dos dados, ou inversamente, 
 ![](images/download-01.png){fig-align="center"}
 
 No gráfico acima 5 grupos são registrados. A altura das barras representa os valores médios. As barras de erro em preto informam como as observações estão dispersas em volta da média. Por exemplo, parece que as medidas do grupo B são mais precisas que as do grupo E.
+
+#### Barras de erro escondem informações
+
+O primeiro problema com as barras de erro é que elas escondem informações. A figura ilustra que os dados completos podem sugerir diferentes conclusões nas estatísticas resumidas. O mesmo gráfico de barras com os erros da esquerda pode representar várias situações. Ambos os grupos podem ter o mesmo tipo de distribuição (B), um grupo pode ter outliers (C), um grupo pode ter distribuição bimodal (D), ou os grupos podem ter tamanhos amostrais desiguais (E).
+
+![](images/download%20(1)-01.png){fig-align="center"}
