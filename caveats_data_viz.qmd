@@ -134,3 +134,9 @@ No gráfico acima 5 grupos são registrados. A altura das barras representa os v
 O primeiro problema com as barras de erro é que elas escondem informações. A figura ilustra que os dados completos podem sugerir diferentes conclusões nas estatísticas resumidas. O mesmo gráfico de barras com os erros da esquerda pode representar várias situações. Ambos os grupos podem ter o mesmo tipo de distribuição (B), um grupo pode ter outliers (C), um grupo pode ter distribuição bimodal (D), ou os grupos podem ter tamanhos amostrais desiguais (E).
 
 ![](images/download%20(1)-01.png){fig-align="center"}
+
+Assim, o mesmo gráfico de barras com erros pode de fato contar muitas histórias diferentes, escondidas para o leitor.
+
+::: {.callout-caution appearance="simple"}
+Sempre mostre os pontos de dados individuais se você puder.
+:::
