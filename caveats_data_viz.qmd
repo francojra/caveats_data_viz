@@ -140,3 +140,7 @@ Assim, o mesmo gráfico de barras com erros pode de fato contar muitas história
 ::: {.callout-caution appearance="simple"}
 Sempre mostre os pontos de dados individuais se você puder.
 :::
+
+#### O que é uma barra de erro?
+
+O segundo problema das barras de erro é que elas são usadas para mostrar diferentes métricas, e não é sempre clara que ela está sendo mostrada. Três tipos de valores são comumente usados para barras de erro, algumas vezes dando resultados muito diferentes. Aqui estão as definições gerais dos erros e como calculá-los.
