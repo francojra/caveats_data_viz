@@ -150,3 +150,13 @@ O segundo problema das barras de erro é que elas são usadas para mostrar difer
 -   [Erro padrão (SE):]{.underline} desvio padrão da média da variável, calculado como o desvio padrão dividido pela raiz quadrada do tamanho da amostra. Por padrão, o SE é menor que o SD. Com uma grande amostra o SE tende a se aproximar de 0.
 
 -   [Intervalo de confiança (CI):]{.underline} é definido de modo que haja uma probabilidade especificada de que um valor esteja dentro dele. É calculado como t \* SE onde t é o valor da distribuição de t-student para um alfa específico. O valor dele é frequentemente arredondado para 1,96 (para uma grande amostra). No entanto, se o tamanho da amostra for grande ou a distribuição não for normal, é melhor calcular o IC usando o método bootstrap.
+
+Aqui está uma aplicação dessas três métricas do famoso banco de dados Iris. Ele mostra a média do comprimento de sépalas de três espécies de Iris. A variação em torno da média está representada pelas barras de erro.
+
+![](images/download%20(2)-02.png){fig-align="center"}
+
+É bastante óbvio que as 3 métricas relatam diferentes visualizações e conclusões.
+
+::: {.callout-caution appearance="simple"}
+Sempre especifique qual a métrica você usou para as barras de erro.
+:::
