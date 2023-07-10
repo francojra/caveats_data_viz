@@ -167,7 +167,7 @@ Sempre especifique qual a métrica você usou para as barras de erro.
 
 ![](images/download%20(3)-02.png){fig-align="center"}
 
-### Por que não usar gráficos com dois eixos?
+### Por que não usar gráficos com dois eixos? Quais são as alternativas?
 
 Acreditamos que gráficos com dois eixos diferentes faz deles difíceis para a maioria das pessoas fazerem interpretações corretas sobre os dados. Nós recomendamos fortemente duas alternativas: usar dois gráficos ao invés de um e usar gráficos indexados.
 
@@ -191,3 +191,5 @@ Nós observamos e encontramos que a maioria das pessoas usam eles para mostrar:
     Fahrenheit e em Celsius.
 
     ![](images/full-180508_index5.png)
+
+    Como podemos ver, gráficos com dois eixos são frequentemente usados para mostrar duas diferentes séries de dados. Frequentemente, o objetivo desses gráficos é comparar duas tendências uma com a outra. Isso dá aos leitores a possibilidade de fazer muito sentido - mas existem algumas razões do porque gráficos com dois eixos não serem melhor caminho. De fato, desses quatro casos, nós imaginamos que apenas o último pode ser usado sem problemas, desde que seja usado apenas o eixo para mostrar diferentes escalas e não série de dados.
