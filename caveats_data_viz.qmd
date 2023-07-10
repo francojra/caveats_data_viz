@@ -175,19 +175,19 @@ Acreditamos que gráficos com dois eixos diferentes faz deles difíceis para a m
 
 Nós observamos e encontramos que a maioria das pessoas usam eles para mostrar:
 
-1.  Duas séries de dados com a mesma unidade de medidas, mas com magnitudes diferentes. Veja o gráfico abaixo sobre produto interno bruto.
+1.  **Duas séries de dados com a mesma unidade de medida**, mas com magnitudes diferentes. Veja o gráfico abaixo sobre produto interno bruto.
 
     ![](images/full-180508_index2.png)
 
-2.  Duas séries de dados que mostram os valores absolutos e relativos de algo.
+2.  **Duas séries de dados que mostram os valores absolutos e relativos** de algo.
 
     ![](images/full-180508_index3.png)
 
-3.  Duas séries de dados para valores totalmente diferentes. O gráfico abaixo mostra o produto interno bruto de um país em um eixo e a expectativa de vida em outro.
+3.  **Duas séries de dados para valores totalmente diferentes**. O gráfico abaixo mostra o produto interno bruto de um país em um eixo e a expectativa de vida em outro.
 
     ![](images/full-180508_index4.png)
 
-4.  Apenas uma série de dados, mas com o eixo y com diferentes escalas. O gráfico abaixo mostra os valores da temperatura em
+4.  **Apenas uma série de dados**, mas com o eixo y com diferentes escalas. O gráfico abaixo mostra os valores da temperatura em
     Fahrenheit e em Celsius.
 
     ![](images/full-180508_index5.png)
@@ -197,3 +197,7 @@ Nós observamos e encontramos que a maioria das pessoas usam eles para mostrar:
 #### Os problemas com gráficos de dois eixos
 
 Aqui está o problema de forma resumida: as escalas dos gráficos com dois eixos são arbitrárias e podem, portanto, confundir os leitores sobre a relação entre as duas séries de dados.
+
+O gráfico abaixo tem dois eixos diferentes: o eixo da esquerda corresponde ao produto interno bruto global entre 40 e 80 trilhões de dólares. O eixo da direita mostra o produto interno bruto da Alemanha que varia entre 2,5 e 4 trilhões de dólares. A medida em dólar é a mesma, mas nós temos uma enorme diferença na magnitude. Veja alguns problemas disso:
+
+-   **Linhas de base zero em alturas diferentes podem enganar:**
