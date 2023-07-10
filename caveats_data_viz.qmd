@@ -193,3 +193,7 @@ Nós observamos e encontramos que a maioria das pessoas usam eles para mostrar:
     ![](images/full-180508_index5.png)
 
     Como podemos ver, gráficos com dois eixos são frequentemente usados para mostrar duas diferentes séries de dados. Frequentemente, o objetivo desses gráficos é comparar duas tendências uma com a outra. Isso dá aos leitores a possibilidade de fazer muito sentido - mas existem algumas razões do porque gráficos com dois eixos não serem melhor caminho. De fato, desses quatro casos, nós imaginamos que apenas o último pode ser usado sem problemas, desde que seja usado apenas o eixo para mostrar diferentes escalas e não série de dados.
+
+#### Os problemas com gráficos de dois eixos
+
+Aqui está o problema de forma resumida: as escalas dos gráficos com dois eixos são arbitrárias e podem, portanto, confundir os leitores sobre a relação entre as duas séries de dados.
