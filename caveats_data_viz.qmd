@@ -166,3 +166,9 @@ Sempre especifique qual a métrica você usou para as barras de erro.
 É melhor evitar as barras de erros o máximo que puder. Claro que não é possível se você tiver apenas estatísticas resumidas. Mas se você conhece os pontos individuais, apresente eles. Várias alternativas são possíveis. O boxplot com jitter é ideal para uma relativamente pequena quantidade de dados. O gráfico de violino é uma outra possibilidade se você tem uma grande quantidade de amostras.
 
 ![](images/download%20(3)-02.png){fig-align="center"}
+
+### Por que não usar gráficos com dois eixos?
+
+Acreditamos que gráficos com dois eixos diferentes faz deles difíceis para a maioria das pessoas fazerem interpretações corretas sobre os dados. Nós recomendamos fortemente duas alternativas: usar dois gráficos ao invés de um e usar gráficos indexados.
+
+#### Por que as pessoas usam gráficos com dois eixos?
