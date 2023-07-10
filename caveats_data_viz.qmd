@@ -186,3 +186,8 @@ Nós observamos e encontramos que a maioria das pessoas usam eles para mostrar:
 3.  Duas séries de dados para valores totalmente diferentes. O gráfico abaixo mostra o produto interno bruto de um país em um eixo e a expectativa de vida em outro.
 
     ![](images/full-180508_index4.png)
+
+4.  Apenas uma série de dados, mas com o eixo y com diferentes escalas. O gráfico abaixo mostra os valores da temperatura em
+    Fahrenheit e em Celsius.
+
+    ![](images/full-180508_index5.png)
