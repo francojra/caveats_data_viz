@@ -172,3 +172,17 @@ Sempre especifique qual a métrica você usou para as barras de erro.
 Acreditamos que gráficos com dois eixos diferentes faz deles difíceis para a maioria das pessoas fazerem interpretações corretas sobre os dados. Nós recomendamos fortemente duas alternativas: usar dois gráficos ao invés de um e usar gráficos indexados.
 
 #### Por que as pessoas usam gráficos com dois eixos?
+
+Nós observamos e encontramos que a maioria das pessoas usam eles para mostrar:
+
+1.  Duas séries de dados com a mesma unidade de medidas, mas com magnitudes diferentes. Veja o gráfico abaixo sobre produto interno bruto.
+
+    ![](images/full-180508_index2.png)
+
+2.  Duas séries de dados que mostram os valores absolutos e relativos de algo.
+
+    ![](images/full-180508_index3.png)
+
+3.  Duas séries de dados para valores totalmente diferentes. O gráfico abaixo mostra o produto interno bruto de um país em um eixo e a expectativa de vida em outro.
+
+    ![](images/full-180508_index4.png)
