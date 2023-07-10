@@ -200,4 +200,14 @@ Aqui está o problema de forma resumida: as escalas dos gráficos com dois eixos
 
 O gráfico abaixo tem dois eixos diferentes: o eixo da esquerda corresponde ao produto interno bruto global entre 40 e 80 trilhões de dólares. O eixo da direita mostra o produto interno bruto da Alemanha que varia entre 2,5 e 4 trilhões de dólares. A medida em dólar é a mesma, mas nós temos uma enorme diferença na magnitude. Veja alguns problemas disso:
 
--   **Linhas de base zero em alturas diferentes podem enganar:**
+-   **Linhas de base zero em alturas diferentes podem enganar:** as proporções de duas escalas são frequentemente diferentes uma da outra em um gráfico com dois eixos. Se o gráfico da esquerda começar no zero, ele seria duas vezes mais longo e se o da direita começar do zero, teria que ser três vezes mais longo.
+
+![](images/full-180508_index12.png){fig-align="center"}
+
+Portanto, embora o gráfico pareça que o PIB alemão e o PIB global aumentam aproximadamente na mesma taxa (pelo menos até 2014), isso não acontece. O PIB global aumentou 80% até 2014; o PIB da Alemanha em 40%.
+
+A maioria das pessoas é acostumada a ver gráficos de linha com apenas uma escala. Então, quando elas vêem um gráfico de linhas com duas escalas, a intuição delas é pensar "Isto é como ler um gráfico com uma linha" - modo: "Oh, duas linhas, legal, mesma taxa, interessante. Os leitores precisam se lembrar ativamente de que essas duas linhas têm menos relação do que estão acostumados a ver em um gráfico de linhas.
+
+Mas este é um problema que pode ser resolvido? Nós podemos apenas estabelecer a linha do zero na mesma altura. Exceção:
+
+-   **Mesmo linhas de base zero na mesma altura podem enganar:**
