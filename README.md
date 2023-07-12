@@ -21,3 +21,7 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Os problemas com gráficos de dois eixos
 - Eles são apenas difíceis de ler
 - Alternativas
+6. **O paradoxo de Simpson**
+- Definição
+- Exemplo
+- Impacto na visualização de dados
