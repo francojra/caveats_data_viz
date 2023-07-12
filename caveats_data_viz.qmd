@@ -187,8 +187,7 @@ Nós observamos e encontramos que a maioria das pessoas usam eles para mostrar:
 
     ![](images/full-180508_index4.png)
 
-4.  **Apenas uma série de dados**, mas com o eixo y com diferentes escalas. O gráfico abaixo mostra os valores da temperatura em
-    Fahrenheit e em Celsius.
+4.  **Apenas uma série de dados**, mas com o eixo y com diferentes escalas. O gráfico abaixo mostra os valores da temperatura em Fahrenheit e em Celsius.
 
     ![](images/full-180508_index5.png)
 
@@ -211,3 +210,13 @@ A maioria das pessoas é acostumada a ver gráficos de linha com apenas uma esca
 Mas este é um problema que pode ser resolvido? Nós podemos apenas estabelecer a linha do zero na mesma altura. Exceção:
 
 -   **Mesmo linhas de base zero na mesma altura podem enganar:**
+
+Se extendermos os dois eixos até a base zero, ele podem ter a mesma altura. No melhor dos casos, os leitores podem agora pensar: "Parece que o produto interno bruto local aumentou mais que o produto interno bruto da Alemanha". No pior dos casos, os leitores podem pensar: "Nos primeiros anos, o produto interno bruto da Alemanha foi maior que o produto interno bruto Global. E então em 2011, os dois produtos internos brutos foram os mesmos."
+
+![](images/full-180508_index11.png){fig-align="center"}
+
+Por que os leitores pensariam assim? Porque os humanos têm a tendência de colocar as coisas em relação se estiverem por perto, e essa relação se torna uma grande parte do significado que eles veem nas coisas. Pontos de dados e séries de dados não são exceções nesses casos. Nós automaticamente comparamos linhas e pontos uns com os outros, então se torna difícil lembrar que diferentes escalas estão envolvidas. Se as coisas parecem próximas nos gráficos, é difícil lembrar constantemente que na verdade, eles estão a quilômetros de distância.
+
+#### Eles são apenas difíceis de ler
+
+"Ha", você poderia dizer, "os leitores apenas necessitam olhar mais atentamente para o gráfico. Olhei para este gráfico por um minuto e descobri tudo."
