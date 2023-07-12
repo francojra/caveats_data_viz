@@ -268,3 +268,15 @@ Vamos considerar o seguinte gráfico de dispersão construído a partir dos dado
 ![](images/download-02.png){fig-align="center"}
 
 Nele faz total sentido declarar que existe uma correlação positiva entre as variáveis x e y. O coeficiente da correlação de Pearson é 0,63.
+
+Entretanto, vamos verificar o que acontece se considerarmos os grupos presentes no conjunto de dados (3 grupos):
+
+![](images/download%20(1)-02.png){fig-align="center"}
+
+Aqui, nós entendemos que a correlação positiva foi devido à diferença entre grupos. Na realidade, o coeficiente de correlação é negativo se cada grupo é considerado separadamente.
+
+Esse é o Paradoxo de Simpson: a tendência entre duas variáveis inverte quando uma terceira variável (grupos) é incluída.
+
+#### Impacto na visualização de dados
+
+O impacto é forte na visualização e nas análises de dados. O Paradoxo de Simpson pode levar a uma conclusão errada com correlações espúrias. Sempre verifique duas vezes o potencial efeito confundidor das variáveis disponíveis no seu conjunto de dados.
