@@ -234,3 +234,5 @@ Os pesquisadores vão além e recomendam evitar completamente gráficos com dois
 #### Alternativas
 
 Entretanto, há esperança! Existem alternativas. Aqui n´so iremos apresentar quatro delas: dois gráficos, gráficos indexados, gráficos de dispersão rotulados e conectados.
+
+-   **Solução 1: gráfico lado-a-lado:** se o problema é que as duas linhas criam um único significado porque elas estão próximas, então devemos separar elas. A primeira solução é criar dois diferentes gráficos com as duas séries de dados, também chamados de gráficos lado-a-lado (side-by-side-charts). A vantagem é que nos gráficos lado a lado não importa o quanto os números diferem: nós podemos criar dois diferentes eixos para dois gráficos diferentes. A diferença é que dois gráficos pode necessitar de mais espaço do que apenas um.
