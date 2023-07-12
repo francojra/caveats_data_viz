@@ -228,3 +228,5 @@ O que eles encontraram foi:
 > *Nós econtramos que o gráfico sobreposto performaram pobremente em termos de acurácia e tempo. O feedback dos participantes no questionário também foi claramente contra o gráfico sobreposto e ele foi rankeado como o pior por todos, exceto um participante. Os participantes acharam ele muito confuso e com alta demanda de concentração ou reflexão para decifrar a não-monótica e descontínua natureza das duas escalas.*
 >
 > --- [A Study on Dual-Scale Data Charts](https://www.lri.fr/~isenberg/publications/papers/Isenberg_2011_ASO.pdf)
+
+Os pesquisadores vão além e recomendam evitar completamente gráficos com dois eixos. Nós concordamos. Nós tentamos mostrar que o perigo dos gráficos com dois eixos é que eles não são intuitivos. Os designers de gráficos tem a liberdade de manipular os eixos como eles desejam, que podem levar a primeira impressão visual muito diferente do que os dados realmente dizem.
