@@ -235,7 +235,7 @@ Os pesquisadores vão além e recomendam evitar completamente gráficos com dois
 
 Entretanto, há esperança! Existem alternativas. Aqui nós iremos apresentar quatro delas: dois gráficos, gráficos indexados, gráficos rotulados e gráficos de dispersão conectados.
 
--   **Solução 1: gráfico lado-a-lado:** se o problema é que as duas linhas criam um único significado porque elas estão próximas, então devemos separar elas. A primeira solução é criar dois diferentes gráficos com as duas séries de dados, também chamados de gráficos lado-a-lado (side-by-side-charts). A vantagem é que nos gráficos lado a lado não importa o quanto os números diferem: nós podemos criar dois diferentes eixos para dois gráficos diferentes. A diferença é que dois gráficos pode necessitar de mais espaço do que apenas um.
+-   **Solução 1 - gráfico lado-a-lado:** se o problema é que as duas linhas criam um único significado porque elas estão próximas, então devemos separar elas. A primeira solução é criar dois diferentes gráficos com as duas séries de dados, também chamados de gráficos lado-a-lado (side-by-side-charts). A vantagem é que nos gráficos lado a lado não importa o quanto os números diferem: nós podemos criar dois diferentes eixos para dois gráficos diferentes. A diferença é que dois gráficos pode necessitar de mais espaço do que apenas um.
 
     ![](images/full-180508_index7.png)
 
@@ -253,3 +253,5 @@ Entretanto, há esperança! Existem alternativas. Aqui nós iremos apresentar qu
 -   **Solução 4 - gráfico de dispersão conectado:** aqui fica chique. Um gráfico de dispersão conectado mantem uma das variáveis no eixo y - mas ao invés do tempo no eixo x, ele irá receber a segunda variável. O tempo fica na forma de anotações dentro do gráfico. É realmente pouco intuitivo, mas muito divertido. No nosso exemplo, esse tipo de gráfico pode estar exagerado, mas existem casos em que eles são as melhores alternativas para apresentar uma ideia.
 
     ![](images/full-180508_index13.png)
+
+Das quatro alternativas apresentadas, as duas primeiras serão as mais úteis na maioria dos casos.
