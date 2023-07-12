@@ -262,3 +262,9 @@ Das quatro alternativas apresentadas, as duas primeiras serão as mais úteis na
 O paradoxo de Simpson, ou Efeito Yule-Simpson, é um fenômeno das probabilidades e estatísticas, em que uma tendência aparece em diferentes grupos de dados mas desaparece ou se inverte quando esses grupos são combinados. Algumas vezes recebe o nome de Paradoxo Reverso ou Paradoxo da Amálgama.
 
 #### Exemplo
+
+Vamos considerar o seguinte gráfico de dispersão construído a partir dos dados dummy.
+
+![](images/download-02.png){fig-align="center"}
+
+Nele faz total sentido declarar que existe uma correlação positiva entre as variáveis x e y. O coeficiente da correlação de Pearson é 0,63.
