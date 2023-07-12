@@ -247,11 +247,18 @@ Entretanto, há esperança! Existem alternativas. Aqui nós iremos apresentar qu
 
     ![](images/full-180508_index14-01.png)
 
-```{=html}
 <!-- -->
-```
+
 -   **Solução 4 - gráfico de dispersão conectado:** aqui fica chique. Um gráfico de dispersão conectado mantem uma das variáveis no eixo y - mas ao invés do tempo no eixo x, ele irá receber a segunda variável. O tempo fica na forma de anotações dentro do gráfico. É realmente pouco intuitivo, mas muito divertido. No nosso exemplo, esse tipo de gráfico pode estar exagerado, mas existem casos em que eles são as melhores alternativas para apresentar uma ideia.
 
     ![](images/full-180508_index13.png)
 
 Das quatro alternativas apresentadas, as duas primeiras serão as mais úteis na maioria dos casos.
+
+### O paradoxo de Simpson
+
+#### Definição
+
+O paradoxo de Simpson, ou Efeito Yule-Simpson, é um fenômeno das probabilidades e estatísticas, em que uma tendência aparece em diferentes grupos de dados mas desaparece ou se inverte quando esses grupos são combinados. Algumas vezes recebe o nome de Paradoxo Reverso ou Paradoxo da Amálgama.
+
+#### Exemplo
