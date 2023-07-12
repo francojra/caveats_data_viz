@@ -231,6 +231,6 @@ O que eles encontraram foi:
 
 Os pesquisadores vão além e recomendam evitar completamente gráficos com dois eixos. Nós concordamos. Nós tentamos mostrar que o perigo dos gráficos com dois eixos é que eles não são intuitivos. Os designers de gráficos tem a liberdade de manipular os eixos como eles desejam, que podem levar a primeira impressão visual muito diferente do que os dados realmente dizem.
 
-### Alternativas
+#### Alternativas
 
 Entretanto, há esperança! Existem alternativas. Aqui n´so iremos apresentar quatro delas: dois gráficos, gráficos indexados, gráficos de dispersão rotulados e conectados.
