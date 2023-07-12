@@ -236,3 +236,9 @@ Os pesquisadores vão além e recomendam evitar completamente gráficos com dois
 Entretanto, há esperança! Existem alternativas. Aqui n´so iremos apresentar quatro delas: dois gráficos, gráficos indexados, gráficos de dispersão rotulados e conectados.
 
 -   **Solução 1: gráfico lado-a-lado:** se o problema é que as duas linhas criam um único significado porque elas estão próximas, então devemos separar elas. A primeira solução é criar dois diferentes gráficos com as duas séries de dados, também chamados de gráficos lado-a-lado (side-by-side-charts). A vantagem é que nos gráficos lado a lado não importa o quanto os números diferem: nós podemos criar dois diferentes eixos para dois gráficos diferentes. A diferença é que dois gráficos pode necessitar de mais espaço do que apenas um.
+
+    ![](images/full-180508_index7.png)
+
+-   **Solução 2: gráficos indexados:** se quiser manter ambas as séries de dados em um único gráfico, nós podemos criar um gráfico indexado. Este gráfico não nos mostra os números absolutos, mas mostra a mudança relativa das séries de dados ao longo do tempo: a porcentagem em que a variável aumentou ou diminuiu ao longo do tempo. Rótulos no gráfico podem trazer informações sobre os números absolutos (variáveis e unidades de medida). Esse abordagem funciona apenas para séries de dados com taxas similares de mudanças. Cole Nussbaumer Knaflic enfatiza muito bem esse ponto em um de seus artigos: Se uma das séries de dados mudar em +10000% e a outra em apenas +5%, a última linha ficará quase invisível.
+
+    ![](images/full-180508_index10.png)
