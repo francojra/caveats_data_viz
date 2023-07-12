@@ -242,3 +242,7 @@ Entretanto, há esperança! Existem alternativas. Aqui n´so iremos apresentar q
 -   **Solução 2: gráficos indexados:** se quiser manter ambas as séries de dados em um único gráfico, nós podemos criar um gráfico indexado. Este gráfico não nos mostra os números absolutos, mas mostra a mudança relativa das séries de dados ao longo do tempo: a porcentagem em que a variável aumentou ou diminuiu ao longo do tempo. Rótulos no gráfico podem trazer informações sobre os números absolutos (variáveis e unidades de medida). Esse abordagem funciona apenas para séries de dados com taxas similares de mudanças. Cole Nussbaumer Knaflic enfatiza muito bem esse ponto em um de seus artigos: Se uma das séries de dados mudar em +10000% e a outra em apenas +5%, a última linha ficará quase invisível.
 
     ![](images/full-180508_index10.png)
+
+-   **Solução 3: priorizar e rotular:** a terceira ideia para evitar o gráfico com dois eixos é apenas mostrar uma linha: a mais importante das duas séries de dados. Nós então podemos usar anotações no gráfico para adicionar informações sobre a outra séries de dados que foi excluída. Essa solução não trabalha bem para muitos dados, mas pode ser uma ótima alternativa aos gráficos de dois eixos que apresentam números absolutos e relativos da mesma medida. Por exemplo, o seguinte gráfico mostra a taxa de desemprego nos Estados Unidos, mas fornece informações em números absolutos na forma de anotações.
+
+![](images/full-180508_index14.png){fig-align="center"}
