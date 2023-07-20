@@ -290,3 +290,5 @@ Por padrão, a maioria das ferramentas de visualização de dados ordena os grup
 Vamos começar com um gráfico lollipop mostrando a quantidade de armas vendidas por alguns países. Aqui cada linha representa um país e o eixo x mostra quantas armas tem sido vendidas em 2017. Os países foram ordenados em ordem alfabética por padrão.
 
 ![](images/download-03.png){fig-align="center"}
+
+É bastante óbvio que Estados Unidos e Rússia vendem bem mais armas que os outros países.
