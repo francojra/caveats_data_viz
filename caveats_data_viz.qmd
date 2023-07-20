@@ -291,4 +291,4 @@ Vamos começar com um gráfico lollipop mostrando a quantidade de armas vendidas
 
 ![](images/download-03.png){fig-align="center"}
 
-É bastante óbvio que Estados Unidos e Rússia vendem bem mais armas que os outros países. Entretanto, é bastante difícil ver a diferença entre as vendas dos outros países, o leitor precisa ir de um a outro para comparar entre eles.
+É bastante óbvio que Estados Unidos e Rússia vendem bem mais armas que os outros países. Entretanto, é bastante difícil ver a diferença entre as vendas dos outros países, o leitor precisa ir de um a outro para comparar entre eles. Isso é muito trabalhoso e irá definitivamente descartar a atenção do seu gráfico.
