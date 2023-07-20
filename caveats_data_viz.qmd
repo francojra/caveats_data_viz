@@ -280,3 +280,7 @@ Esse é o Paradoxo de Simpson: a tendência entre duas variáveis inverte quando
 #### Impacto na visualização de dados
 
 O impacto é forte na visualização e nas análises de dados. O Paradoxo de Simpson pode levar a uma conclusão errada com correlações espúrias. Sempre verifique duas vezes o potencial efeito confundidor das variáveis disponíveis no seu conjunto de dados.
+
+### Porque você deve ordenar seus dados
+
+Por padrão, a maioria das ferramentas de visualização de dados ordena os grupos de variáveis categóricas por ordem alfabética, ou usa a ordem de aparência da sua tabela.
