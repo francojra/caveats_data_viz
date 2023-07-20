@@ -288,3 +288,5 @@ Por padrão, a maioria das ferramentas de visualização de dados ordena os grup
 #### Gráficos lollipop não ordenados
 
 Vamos começar com um gráfico lollipop mostrando a quantidade de armas vendidas por alguns países. Aqui cada linha representa um país e o eixo x mostra quantas armas tem sido vendidas em 2017. Os países foram ordenados em ordem alfabética por padrão.
+
+![](images/download-03.png){fig-align="center"}
