@@ -292,3 +292,11 @@ Vamos começar com um gráfico lollipop mostrando a quantidade de armas vendidas
 ![](images/download-03.png){fig-align="center"}
 
 É bastante óbvio que Estados Unidos e Rússia vendem bem mais armas que os outros países. Entretanto, é bastante difícil ver a diferença entre as vendas dos outros países, o leitor precisa ir de um a outro para comparar entre eles. Isso é muito trabalhoso e irá definitivamente descartar a atenção do seu gráfico.
+
+#### Reordene o gráfico
+
+Vamos utilizar o mesmo gráfico lollipop, mas reordenando cada grupo pelos valores deles.
+
+![](images/download%20(1)-03.png){fig-align="center"}
+
+A figura agora é muito mais perspicaz, com a França agora sendo o terceiro mais com maior exportação, seguido da Alemanha, Israel e Reino Unido. Claro, note que faria sentido normalizar este gráfico pela população de cada país para ter dados mais comparáveis.
