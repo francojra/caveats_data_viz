@@ -283,4 +283,4 @@ O impacto é forte na visualização e nas análises de dados. O Paradoxo de Sim
 
 ### Porque você deve ordenar seus dados
 
-Por padrão, a maioria das ferramentas de visualização de dados ordena os grupos de variáveis categóricas por ordem alfabética, ou usa a ordem de aparência da sua tabela.
+Por padrão, a maioria das ferramentas de visualização de dados ordena os grupos de variáveis categóricas por ordem alfabética, ou usa a ordem de aparência da sua tabela. É uma boa prática pensar sobre essa ordem, pois alterá-la pode agregar muito conhecimento ao seu gráfico.
