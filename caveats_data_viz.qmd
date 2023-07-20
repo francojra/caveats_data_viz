@@ -300,3 +300,7 @@ Vamos utilizar o mesmo gráfico lollipop, mas reordenando cada grupo pelos valor
 ![](images/download%20(1)-03.png){fig-align="center"}
 
 A figura agora é muito mais perspicaz, com a França agora sendo o terceiro mais com maior exportação, seguido da Alemanha, Israel e Reino Unido. Claro, note que faria sentido normalizar este gráfico pela população de cada país para ter dados mais comparáveis.
+
+#### Conclusão
+
+Reordenar os seus dados deveria ser um passo que você deveria sempre considerar quando construir o gráfico. Claro, algumas vezes a ordem dos grupos deve ser estabelecida pelas características deles e não pelos valores, como os meses do ano, mas vale a pena pensar nisso.
