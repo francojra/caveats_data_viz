@@ -320,3 +320,7 @@ Vemos que é muito difícil seguir uma linha para entender a evolução da popul
 2.  **Usar múltiplas pequenas janelas:** gráficos de área podem ser usados para dar uma visão mais geral dos dados, especialmente quando usado em combinação com múltiplas pequenas janelas. No seguinte gráfico, é fácil obter um resumo da evolução de cada nome. Podemos verificar que o nome *Linda* foi um nome popular por um curto período de tempo. Por outro lado, *Ida* nunca tem sido um nome Popular, mas foi usado um pouco durante várias décadas.
 
     ![](images/download%20(2)-03.png)
+
+3.  **Combinando as abordagens:** note que se você quiser comparar a evolução de cada linha umas com as outras, você pode combinar as duas abordagens mencionadas.
+
+    ![](images/download%20(3)-03.png)
