@@ -307,4 +307,6 @@ Reordenar os seus dados deveria ser um passo que você deveria sempre considerar
 
 ### O gráfico de espaguete
 
-O gráfico de espaguete é um gráfico de linha exibido com muitas linhas juntas.
+O gráfico de espaguete é um gráfico de linha exibido com muitas linhas juntas. Com um pouco mais de 5 grupos, esse tipo de gráfico se torna difícil de ser lido, e assim fornece pouco insight sobre os dados. Vamos ver um exemplo sobre a evolução do número de nomes de bebês dos Estados Unidos entre 1880 e 2015.
+
+![](images/download-04.png){fig-align="center"}
