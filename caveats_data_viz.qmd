@@ -310,3 +310,5 @@ Reordenar os seus dados deveria ser um passo que você deveria sempre considerar
 O gráfico de espaguete é um gráfico de linha exibido com muitas linhas juntas. Com um pouco mais de 5 grupos, esse tipo de gráfico se torna difícil de ser lido, e assim fornece pouco insight sobre os dados. Vamos ver um exemplo sobre a evolução do número de nomes de bebês dos Estados Unidos entre 1880 e 2015.
 
 ![](images/download-04.png){fig-align="center"}
+
+Vemos que é muito difícil seguir uma linha para entender a evolução da popularidade de um nome específico. Ainda, mesmo que você tente seguir uma linha, você então necessita ligar ela com a legenda que também é difícil de ler com a associação das respectivas cores. Vamos tentar encontrar algumas soluções alternativas para melhorar este gráfico.
