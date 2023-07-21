@@ -312,3 +312,9 @@ O gráfico de espaguete é um gráfico de linha exibido com muitas linhas juntas
 ![](images/download-04.png){fig-align="center"}
 
 Vemos que é muito difícil seguir uma linha para entender a evolução da popularidade de um nome específico. Ainda, mesmo que você tente seguir uma linha, você então necessita ligar ela com a legenda que também é difícil de ler com a associação das respectivas cores. Vamos tentar encontrar algumas soluções alternativas para melhorar este gráfico.
+
+1.  **Segmentar um grupo específico:** vamos dizer que você fez um gráfico com muitos grupos, mas o verdadeiro motivo para isso é explicar a característica de um grupo particular comparado aos outros. Então uma boa solução alternativa é destacar esse grupo: tornar ele diferente, e adicionar um pequeno texto sobre ele. Aqui, a evolução da popularidade do nome Amanda é óbvia. Abandonar as outras linhas é importante desde que isso permite você comparar o nome Amanda aos outros nomes.
+
+    ![](images/download%20(1)-04.png)
+
+2.  **Usar múltiplas pequenas janelas:**
