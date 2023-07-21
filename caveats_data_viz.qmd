@@ -304,3 +304,7 @@ A figura agora é muito mais perspicaz, com a França agora sendo o terceiro mai
 #### Conclusão
 
 Reordenar os seus dados deveria ser um passo que você deveria sempre considerar quando construir o gráfico. Claro, algumas vezes a ordem dos grupos deve ser estabelecida pelas características deles e não pelos valores, como os meses do ano, mas vale a pena pensar nisso.
+
+### O gráfico de espaguete
+
+O gráfico de espaguete é um gráfico de linha exibido com muitas linhas juntas.
