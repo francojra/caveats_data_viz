@@ -340,3 +340,7 @@ Vamos checar o que acontece quando os preços são divididos em bins de 2 euros 
 ![](images/download%20(1)-05.png){fig-align="center"}
 
 Existe uma grande diferença entre os dois histogramas. Alguns valores estão super-representados no conjunto de dados (como 58, 64, 69, 75, 80...). Isso é definitivamente um sinal que você quer entender quando analisar seus dados.
+
+### Muitas distribuições
+
+Comparar a distribuição de muitas variáveis numéricas é um atarefa comum na visualização de dados. A distribuição de uma variável pode ser representada usando um histograma ou um gráfico de densidade, e é muito tentador representar muitas distribuições no mesmo eixo.
