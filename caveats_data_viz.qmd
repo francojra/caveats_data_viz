@@ -335,6 +335,8 @@ Entretanto, essa escolha do tamanho do bin pode ter um forte impacto sobre a ide
 
 O preço varia entre 10 a 300 euros, com a maioria dos apartamentos alcançando entre 60 e 150 euros por noite. Nesse gráfico, os preços são cortados em vários bins de 10 euros: entre 0 e 10 euros uma noite, 10 e 20 euros e assim por diante. Iso é representado pelo eixo X. Então, o número de apartamentos por bin é contado e representado pelo eixo Y.
 
-Vamos checar o que acontece quando os preços são divididos em bins de 2 euros ao invés de 10.
+Vamos checar o que acontece quando os preços são divididos em bins de 2 euros ao invés de 10:
 
 ![](images/download%20(1)-05.png){fig-align="center"}
+
+Existe uma grande diferença entre os dois histogramas. Alguns valores estão super-representados no conjunto de dados (como 58, 64, 69, 75, 80...). Isso é definitivamente um sinal que você quer entender quando analisar seus dados.
