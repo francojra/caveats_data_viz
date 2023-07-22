@@ -352,3 +352,7 @@ Aqui está um exemplo mostrando como pessoas percebem o vocabulário de probabil
 Nesse caso, a figura está bastante organizada. Pessoas dão uma probabilidade entre 0 e 20% para a sentança "Quase sem chance", e entre 75 e 100% para "Quase certamente". Vamos checar o que acontece com mais grupos:
 
 ![](images/download%20(3)-04.png){fig-align="center"}
+
+Agora a figura está bastante confusa e é impossível distinguir os grupos: existem muitas distribuições representadas no mesmo gráfico.
+
+#### Soluções alternativas
