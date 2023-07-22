@@ -329,6 +329,8 @@ Vemos que é muito difícil seguir uma linha para entender a evolução da popul
 
 Um histograma toma como entrada uma variável numérica e corta ele em vários bins (caixas). O número de observações em cada bin é representado pela altura da barra. É um tipo de gráfico muito comum e a maioria das ferramentas selecionam um valor do tamanho de bin padrão.
 
-Entretanto, essa escolha do tamanho do bin pode ter um forte impacto sobre a ideia do gráfico. Vamos olhar a distribuição dos preços noturno do Airbnb da Riviera Francesa:
+Entretanto, essa escolha do tamanho do bin pode ter um forte impacto sobre a ideia do gráfico. Vamos olhar a distribuição dos preços por noite do Airbnb da Riviera Francesa:
 
 ![](images/download-05.png){fig-align="center"}
+
+O preço varia entre 10 a 300 euros, com a maioria dos apartamentos alcançando entre 60 e 150 euros por noite.
