@@ -324,3 +324,7 @@ Vemos que é muito difícil seguir uma linha para entender a evolução da popul
 3.  **Combinando as abordagens:** note que se você quiser comparar a evolução de cada linha umas com as outras, você pode combinar as duas abordagens mencionadas.
 
     ![](images/download%20(3)-03.png)
+
+### Brinque com o tamanho do bin do histograma
+
+Um histograma toma como entrada uma variável numérica e corta ele em vários bins (caixas).
