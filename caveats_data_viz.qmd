@@ -327,4 +327,4 @@ Vemos que é muito difícil seguir uma linha para entender a evolução da popul
 
 ### Brinque com o tamanho do bin do histograma
 
-Um histograma toma como entrada uma variável numérica e corta ele em vários bins (caixas).
+Um histograma toma como entrada uma variável numérica e corta ele em vários bins (caixas). O número de observações em cada bin é representado pela altura da barra. É um tipo de gráfico muito comum e a maioria das ferramentas selecionam um valor do tamanho de bin padrão.
