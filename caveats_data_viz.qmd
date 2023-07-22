@@ -356,3 +356,21 @@ Nesse caso, a figura está bastante organizada. Pessoas dão uma probabilidade e
 Agora a figura está bastante confusa e é impossível distinguir os grupos: existem muitas distribuições representadas no mesmo gráfico.
 
 #### Soluções alternativas
+
+Várias alternativas existem e são apresentadas em detalhes [nessa página](https://www.data-to-viz.com/story/OneNumOneCatSeveralObs.html). Aqui é apenas uma visão geral das possibilidades.
+
+**Boxplot**
+
+![](images/download%20(4)-01.png){fig-align="center"}
+
+**Violino**
+
+![](images/download%20(5)-01.png){fig-align="center"}
+
+**Ridgeline**
+
+![](images/download%20(6)-01.png){fig-align="center"}
+
+**Faceting**
+
+![](images/download%20(7)-01.png){fig-align="center"}
