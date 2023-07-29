@@ -25,3 +25,11 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Definição
 - Exemplo
 - Impacto na visualização de dados
+7. **Porque você deve ordenar seus dados**
+- Gráficos lollipop não ordenados
+- Reordene o gráfico
+- Conclusão
+8. **O gráfico de espaguete**
+9. **Brinque com o tamanho do bin do histograma**
+10. **Muitas distribuições**
+- Soluções alternativas
