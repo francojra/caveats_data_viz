@@ -388,3 +388,9 @@ Aqui vão 10 sugestões de como resolver esse problema.
 A solução mais fácil é reduzir o tamanho dos pontos. Dependendo da quantidade de potnos sobrepostos, ele pode solucionar o problema. Como podemos ver, agora claramente aparecem três agrupamentos que foram camuflados no gráfico anterior.
 
 ![](images/download%20(1)-06.png){fig-align="center"}
+
+#### Transparência
+
+Em combinação com a redução do tamanho dos pontos, a transparência ajuda a revelar padrões em gráficos com plotagem excessiva:
+
+![](images/download%20(2)-05.png){fig-align="center"}
