@@ -391,7 +391,7 @@ A solução mais fácil é reduzir o tamanho dos pontos. Dependendo da quantidad
 
 #### Transparência
 
-Em combinação com a redução do tamanho dos pontos, a transparência ajuda a revelar padrões em gráficos com plotagem excessiva:
+Em combinação com a redução do tamanho dos pontos, a transparência ajuda a revelar padrões em gráficos com plotagem excessiva.
 
 ![](images/download%20(2)-05.png){fig-align="center"}
 
@@ -403,7 +403,7 @@ O gráfico de densidade 2D basicamente conta o número de observações dentro d
 
 #### Amostragem
 
-Algumas vezes menos é mais. Plotar apenas uma fração de seus dados (aqui 5%) pode significativamente reduzir tempo e evitar sobreplotagem:
+Algumas vezes menos é mais. Plotar apenas uma fração de seus dados (aqui 5%) pode significativamente reduzir tempo e evitar sobreplotagem.
 
 ![](images/download%20(4)-02.png){fig-align="center"}
 
@@ -430,3 +430,9 @@ Assim como você tem vários grupos em seu gráfico, uma alternativa é usar o f
 Jittering (tremor na traduação para o português) é uma opção quando um dos eixos é qualitativo (como 1, 2, 3...). Ele adiciona um valor randômico para cada ponto para evitar sobreplotagem.
 
 ![](images/download%20(8)-01.png){fig-align="center"}
+
+#### Distribuição marginal
+
+Adicionar distribuições marginais permite ao leitor detectar a distribuição escondida na sobreplotagem do gráfico. Podemos adicionar boxplots, histogramas ou gráficos de densidade nas margens.
+
+![](images/download%20(9).png){fig-align="center"}
