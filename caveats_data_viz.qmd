@@ -424,3 +424,9 @@ Se você tem variáveis agrupadas, é bastante recomendável tornar eles destaca
 Assim como você tem vários grupos em seu gráfico, uma alternativa é usar o facetamento: o mesmo gráfico é repetido com os grupos destacados em diferentes espaços ou janelas.
 
 ![](images/download%20(7)-02.png){fig-align="center"}
+
+#### Jittering
+
+Jittering (tremor na traduação para o português) é uma opção quando um dos eixos é qualitativo (como 1, 2, 3...). Ele adiciona um valor randômico para cada ponto para evitar sobreplotagem.
+
+![](images/download%20(8)-01.png){fig-align="center"}
