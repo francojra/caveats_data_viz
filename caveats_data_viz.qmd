@@ -374,3 +374,11 @@ Várias alternativas existem e são apresentadas em detalhes [nessa página](htt
 **Faceting**
 
 ![](images/download%20(7)-01.png){fig-align="center"}
+
+### Como evitar sobreplotagem
+
+Quando você tem um grande conjunto de dados, os pontos do seu gráfico de dispersão tendem a se sobrepor, tornando o gráfico ilegível. Essa questão está ilustrada nesse gráfico abaixo. Na primeira observação, é impossível verificar a existância de alguma relação entre os eixos x e y, o que seria uma conclusão errada sobre os dados.
+
+![](images/download-06.png){fig-align="center"}
+
+Aqui vão 10 sugestões de como resolver esse problema.
