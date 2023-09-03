@@ -406,3 +406,21 @@ O gráfico de densidade 2D basicamente conta o número de observações dentro d
 Algumas vezes menos é mais. Plotar apenas uma fração de seus dados (aqui 5%) pode significativamente reduzir tempo e evitar sobreplotagem:
 
 ![](images/download%20(4)-02.png){fig-align="center"}
+
+#### Destacar um grupo
+
+Um outro caminho para reduzir a complexidade de um gráfico é destacar um grupo específico.
+
+![](images/download%20(5)-02.png){fig-align="center"}
+
+#### Agrupamento
+
+Se você tem variáveis agrupadas, é bastante recomendável tornar eles destacados no gráfico. Em casos de sobreplotagem, isso pode ajudar a revelar padrões.
+
+![](images/download%20(6)-02.png){fig-align="center"}
+
+#### Facetação
+
+Assim como você tem vários grupos em seu gráfico, uma alternativa é usar o facetamento: o mesmo gráfico é repetido com os grupos destacados em diferentes espaços ou janelas.
+
+![](images/download%20(7)-02.png){fig-align="center"}
