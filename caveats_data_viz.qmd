@@ -394,3 +394,15 @@ A solução mais fácil é reduzir o tamanho dos pontos. Dependendo da quantidad
 Em combinação com a redução do tamanho dos pontos, a transparência ajuda a revelar padrões em gráficos com plotagem excessiva:
 
 ![](images/download%20(2)-05.png){fig-align="center"}
+
+#### Gráfico de densidade 2D
+
+O gráfico de densidade 2D basicamente conta o número de observações dentro de uma particular área de um espaço 2D e representa essa contagem em diferentes cores. Se você divide o espaço em vários quadrados, você obtem um histograma em 2D. Se usar hexagonos ao invés de quadrados, você obtem um gráfico hexbin. Você também pode calcular a densidade estimada e representar gráficos de densidade 2D ou gráficos de contorno.
+
+![](images/download%20(3)-05.png){fig-align="center"}
+
+#### Amostragem
+
+Algumas vezes menos é mais. Plotar apenas uma fração de seus dados (aqui 5%) pode significativamente reduzir tempo e evitar sobreplotagem:
+
+![](images/download%20(4)-02.png){fig-align="center"}
