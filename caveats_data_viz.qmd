@@ -382,3 +382,9 @@ Quando você tem um grande conjunto de dados, os pontos do seu gráfico de dispe
 ![](images/download-06.png){fig-align="center"}
 
 Aqui vão 10 sugestões de como resolver esse problema.
+
+#### Diminuir tamanho dos pontos
+
+A solução mais fácil é reduzir o tamanho dos pontos. Dependendo da quantidade de potnos sobrepostos, ele pode solucionar o problema. Como podemos ver, agora claramente aparecem três agrupamentos que foram camuflados no gráfico anterior.
+
+![](images/download%20(1)-06.png){fig-align="center"}
