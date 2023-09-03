@@ -33,3 +33,5 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 9. **Brinque com o tamanho do bin do histograma**
 10. **Muitas distribuições**
 - Soluções alternativas
+11. **Como evitar sobreplotagem**
+- Diminuir o tamanho dos pontos
