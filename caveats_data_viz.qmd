@@ -440,3 +440,9 @@ Adicionar distribuições marginais permite ao leitor detectar a distribuição 
 ### O que considerar quando escolher as cores na visualização de dados
 
 A visualização de dados pode ser definida como a representação de números através de formas (áreas, linhas, pontos) e de cores. Algumas vezes as cores servem para tornas as formas vísiveis, outras vezes elas mesmas condificam os dados ou categorias. Nós iremos focar principalmente na última opção mencionada e no que podemos considerar ao escolher as cores.
+
+#### Quando usar cores na visualização de dados
+
+Considere se existe uma alternativa melhor às cores de gradiente ao codificar os valores mais importantes. Cores de gradiente podem ser ótimas para mostrar um padrão, mas ela dificulta decifrar valores reais na diferença entre as categorias de grupos. Assim, considere mostrar seus mais importantes valores com barras, gráficos de ponto (dotplot) ou mesmo áreas, e use cores apenas para mostrar diferenças entre categorias, isso confunde menos os leitores que poderão decifrar os valores mais rápido.
+
+![](images/rule7-1536x653.png){fig-align="center"}
