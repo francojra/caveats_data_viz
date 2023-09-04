@@ -468,3 +468,7 @@ Se você necessitar de mais que sete cores em um gráfico, considere usar um out
 **Certifique que os contrastes são altos o suficiente.** Cuidar dos contrastes significa cuidar para que seus leitores sejam capazes de ler o texto no gráfico, mesmo com pouca luz e se usar cores claras como o cinza. Isso é espcialmente importante para textos, quanto menor o texto, mais alto necessita ser o contraste e plano de fundo para tornar o texto legível. A taxa de contraste deve ser de 2.5 para textos grandes e 4 para textos menores. Em adição ao contraste, evite cores complementares (ex.: vermelho e verde ou laranja e azul) e cores brilhantes como plano de fundo. Use [essa ferramenta](https://snook.ca/technical/colour_contrast/colour.html#fg=BDBDBD,bg=E7E7E7) para testar o contraste entre as cores.
 
 ![](images/contrast-copy-1536x653.png){fig-align="center"}
+
+**Verifique onde as cores aparecem em relação umas as outras.** Quanto menor as áreas do seu gráfico e maior a distância entre elas, mais dificuldade o leitor sentirá para interpretar seu gráfico e compará-las. Considere dar aos pontos e linhas um alto contraste na sua tonalidade ou brilho, e assim, tornar eles mais disntinguíveis. Entretanto, para grandes áreas podemos usar menor contraste, especialmente se não existe nenhuma outra cor entre essas áreas.
+
+![](images/Artboard-89-copy-15-1536x653.png){fig-align="center"}
