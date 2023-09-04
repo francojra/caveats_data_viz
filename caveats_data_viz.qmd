@@ -450,3 +450,9 @@ Considere se existe uma alternativa melhor às cores de gradiente ao codificar o
 Se você necessitar de mais que sete cores em um gráfico, considere usar um outro tipo de gráfico ou agrupar as categorias juntas. As cores facilitam para os leitores distinguirem entre categorias, mas tente evitar usar mais que sete cores. Quanto mais cores em um gráfico, maior a dificuldade para ler os grupos. Os leitores necessitarão frequentemente consultar a legenda para entender o que cada uma representa. Portanto, considere usar um outro tipo de gráfico.
 
 ![](images/rule10-1536x653.png){fig-align="center"}
+
+#### Como fazer melhores escolhas de cores
+
+Considere usar as mesmas cores em gráficos diferentes para as mesmas variáveis. Se você usa as mesmas cores para todos os seus gráficos referentes as mesmas variáveis, isso evita de tornar seu trabalho muito colorido. Por exemplo, é ok mostrar a variável desemprego em azul no primeiro gráfico e poucos parágrafos depois usar a mesma cor para a variável renda per capita com a mesma cor. Para não confundir leitores e permitir comparações, considere usar as mesmas cores novamente se você está mostrando dados sobre as mesmas categorias.
+
+![](images/rule14-1536x653.png){fig-align="center"}
