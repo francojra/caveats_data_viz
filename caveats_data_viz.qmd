@@ -447,4 +447,6 @@ Considere se existe uma alternativa melhor às cores de gradiente ao codificar o
 
 ![](images/rule7-1536x653.png){fig-align="center"}
 
-Se você necessitar de mais que sete cores em um gráfico, considere usar um outro tipo de gráfico ou agrupar as categorias juntas.
+Se você necessitar de mais que sete cores em um gráfico, considere usar um outro tipo de gráfico ou agrupar as categorias juntas. As cores facilitam para os leitores distinguirem entre categorias, mas tente evitar usar mais que sete cores. Quanto mais cores em um gráfico, maior a dificuldade para ler os grupos. Os leitores necessitarão frequentemente consultar a legenda para entender o que cada uma representa. Portanto, considere usar um outro tipo de gráfico.
+
+![](images/rule10-1536x653.png){fig-align="center"}
