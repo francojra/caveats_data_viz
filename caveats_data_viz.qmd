@@ -443,6 +443,8 @@ A visualização de dados pode ser definida como a representação de números a
 
 #### Quando usar cores na visualização de dados
 
-Considere se existe uma alternativa melhor às cores de gradiente ao codificar os valores mais importantes. Cores de gradiente podem ser ótimas para mostrar um padrão, mas ela dificulta decifrar valores reais na diferença entre as categorias de grupos. Assim, considere mostrar seus mais importantes valores com barras, gráficos de ponto (dotplot) ou mesmo áreas, e use cores apenas para mostrar diferenças entre categorias, isso confunde menos os leitores que poderão decifrar os valores mais rápido.
+Considere se existe uma alternativa melhor às cores de gradiente ao codificar os valores mais importantes. Cores de gradiente podem ser ótimas para mostrar um padrão, mas ela dificulta decifrar valores reais na diferença entre as categorias de grupos. Assim, considere mostrar seus mais importantes valores com barras, gráficos de ponto (dotplot) ou mesmo áreas, e use cores apenas para mostrar diferenças entre categorias (grupos), isso confunde menos os leitores que poderão decifrar os valores mais rápido.
 
 ![](images/rule7-1536x653.png){fig-align="center"}
+
+Se você necessitar de mais que sete cores em um gráfico, considere usar um outro tipo de gráfico ou agrupar as categorias juntas.
