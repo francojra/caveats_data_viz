@@ -472,3 +472,7 @@ Se você necessitar de mais que sete cores em um gráfico, considere usar um out
 **Verifique onde as cores aparecem em relação umas as outras.** Quanto menor as áreas do seu gráfico e maior a distância entre elas, mais dificuldade o leitor sentirá para interpretar seu gráfico e compará-las. Considere dar aos pontos e linhas um alto contraste na sua tonalidade ou brilho, e assim, tornar eles mais disntinguíveis. Entretanto, para grandes áreas podemos usar menor contraste, especialmente se não existe nenhuma outra cor entre essas áreas.
 
 ![](images/Artboard-89-copy-15-1536x653.png){fig-align="center"}
+
+**Use cores intuitivas.** Quando escolher uma paleta de cores, considere o significado delas na cultura da sua audiência. Se possível, use cores que os leitores irão associar com os dados de qualquer maneira, por exemplo, a cor vermelha pode representar uma variável do partido republicano e a cor azul do partido democratas; cores da natureza: floresta = verde, lago = azul; cores de aprendizado: atenção/parar/ruim = vemelho, bom = verde. Quando usar cores para representar gêneros evite usar a combinação esteriotipada do rosa-azul. Para não confundir os leitores, tente cores frias (azul ou lilás) para homens e cores quentes (laranja ou amarelo) para mulheres.
+
+![](images/rule12-1536x653.png){fig-align="center"}
