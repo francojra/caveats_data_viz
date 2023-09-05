@@ -484,3 +484,7 @@ Se você necessitar de mais que sete cores em um gráfico, considere usar um out
 **Não use cores de gradiente para categorias e vice-versa.** Pode ser tentador usa a mesma cor com diferentes contrastes para diferentes categorias, para fazer o gráfico parecer menos colorido. Entretanto, muitos leitores podem associar cores escuras com "mais/alto" e cores claras com "menos/baixo", tal paleta implicará em um rankeamento das suas categorias. Use diferentes cores para as suas categorias. Se precisar usar muitas cores (mais que 7), considere usar outro tipo de gráfico.
 
 ![](images/rule6-1536x653.png){fig-align="center"}
+
+**Use a luminosidade para criar gradientes, não apenas tonalidade.** Se você quiser tentar: não coloque mais de dois tons com a mesma luminosidade em seu gradiente, desenhe seu gráfico de uma cor mais clara (ex. branco) para uma cor mais escura (ex. azul) de uma forma consistente. Gradientes com muitas variações em luminosidade (em escalas de arco-íris) podem confundir os leitores.
+
+![](images/Artboard-89-copy-20-1536x705.png){fig-align="center"}
