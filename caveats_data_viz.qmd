@@ -492,3 +492,11 @@ Se você necessitar de mais que sete cores em um gráfico, considere usar um out
 **Considere usar dois tons para um gradiente, não apenas um.** Esse é o próximo passo para fazer seu gráfico ou mapa ainda mais decifrável. Os leitores serão capazes de distinguir melhor as cores do gradiente se eles são codificados atravpes da luminosidade e duas ou três cuidadosamente selecionadas tonalidades.
 
 ![](images/Artboard-89-copy-17-1536x704.png){fig-align="center"}
+
+**Considere usar cores de gradiente divergentes.** Se você quiser enfatizar como uma variável desvia de uma linha de base (digamos, a média nacional), você pode querer usar uma paleta de cores divergentes. É importante usar tonalidades claramente divergentes para poder comparar ambos os lados do gradiente. A cor do centro idealmente deverá ser um cinza claro, não branco:
+
+![](images/Artboard-89-copy-19-1536x704.png){fig-align="center"}
+
+**Considere as pessoas daltônicas.** Usar diferentes luminosidades em seus gradientes na sua paleta de cores tem a grande vantagem de que leitores com visão de cores deficiente irão ainda ser capazes de distinguir suas cores. Existem diferentes tipos de cegueiras de cores. Use uma [ferramenta online](https://www.color-blindness.com/coblis-color-blindness-simulator/) ou check as cores [nesse link](https://blog.datawrapper.de/colorblind-check/) para ter certeza que usuários daltônicos podem distinguir as cores no gráfico. O pacote `cols4all` do R permite que você selecione paleta de cores que são amigáveis a pessoas com daltonismo.
+
+![](images/rule16-1536x1478.png){fig-align="center"}
