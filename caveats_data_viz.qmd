@@ -476,3 +476,7 @@ Se você necessitar de mais que sete cores em um gráfico, considere usar um out
 **Use cores intuitivas.** Quando escolher uma paleta de cores, considere o significado delas na cultura da sua audiência. Se possível, use cores que os leitores irão associar com os dados de qualquer maneira, por exemplo, a cor vermelha pode representar uma variável do partido republicano e a cor azul do partido democratas; cores da natureza: floresta = verde, lago = azul; cores de aprendizado: atenção/parar/ruim = vemelho, bom = verde. Quando usar cores para representar gêneros evite usar a combinação esteriotipada do rosa-azul. Para não confundir os leitores, tente cores frias (azul ou lilás) para homens e cores quentes (laranja ou amarelo) para mulheres.
 
 ![](images/rule12-1536x653.png){fig-align="center"}
+
+**Use cores claras para valores baixos e cores escuras para valores altos.** Quando usar gradiente de cores, tenha certeza que cores claras representam valores baixos, enquanto cores escuras representam valores altos. Isso será intuitivo para a maior parte dos leitores.
+
+![](images/rule6-copy-1536x653.png){fig-align="center"}
