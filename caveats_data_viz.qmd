@@ -488,3 +488,7 @@ Se você necessitar de mais que sete cores em um gráfico, considere usar um out
 **Use a luminosidade para criar gradientes, não apenas tonalidade.** Se você quiser tentar: não coloque mais de dois tons com a mesma luminosidade em seu gradiente, desenhe seu gráfico de uma cor mais clara (ex. branco) para uma cor mais escura (ex. azul) de uma forma consistente. Gradientes com muitas variações em luminosidade (em escalas de arco-íris) podem confundir os leitores.
 
 ![](images/Artboard-89-copy-20-1536x705.png){fig-align="center"}
+
+**Considere usar dois tons para um gradiente, não apenas um.** Esse é o próximo passo para fazer seu gráfico ou mapa ainda mais decifrável. Os leitores serão capazes de distinguir melhor as cores do gradiente se eles são codificados atravpes da luminosidade e duas ou três cuidadosamente selecionadas tonalidades.
+
+![](images/Artboard-89-copy-17-1536x704.png){fig-align="center"}
