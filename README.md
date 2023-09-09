@@ -44,3 +44,6 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Jittering
 - Distribuição marginal
 12. **O que considerar quando escolher as cores na visualização de dados**
+- Quando usar cores na visualização de dados
+- Como fazer melhores escolhas de cores
+13. **Não seja contra-intuitivo**
