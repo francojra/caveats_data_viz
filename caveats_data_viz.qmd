@@ -500,3 +500,7 @@ Se você necessitar de mais que sete cores em um gráfico, considere usar um out
 **Considere as pessoas daltônicas.** Usar diferentes luminosidades em seus gradientes na sua paleta de cores tem a grande vantagem de que leitores com visão de cores deficiente irão ainda ser capazes de distinguir suas cores. Existem diferentes tipos de cegueiras de cores. Use uma [ferramenta online](https://www.color-blindness.com/coblis-color-blindness-simulator/) ou check as cores [nesse link](https://blog.datawrapper.de/colorblind-check/) para ter certeza que usuários daltônicos podem distinguir as cores no gráfico. O pacote `cols4all` do R permite que você selecione paleta de cores que são amigáveis a pessoas com daltonismo.
 
 ![](images/rule16-1536x1478.png){fig-align="center"}
+
+### Não seja contra-intuitivo
+
+As pessoas costumam ver os dados exibidos de maneira usual e lógica. Não respeitar os padrões da visualização de dados pode fazer seu gráfico difícil de entender, ou mesmo levar a sua audiência a uma conclusão incorreta.
