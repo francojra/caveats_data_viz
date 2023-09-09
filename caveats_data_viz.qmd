@@ -521,4 +521,4 @@ Aqui está um e-mail de marketing do Google. Ele descreve o comportamento de 41%
 
 #### Conclusão
 
-Um bom gráfico inclui peças dos dados que ensinam algo novo a um leitor.
+Um bom gráfico inclui peças dos dados que ensinam algo novo a um leitor. Se essas novas peças da informação são exibidas de maneira contra-intuitiva, ela pode tornar a visualização mais fascinante, mas muito confusa ou errônea para a audiência.
