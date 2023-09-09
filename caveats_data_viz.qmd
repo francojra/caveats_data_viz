@@ -504,3 +504,7 @@ Se você necessitar de mais que sete cores em um gráfico, considere usar um out
 ### Não seja contra-intuitivo
 
 As pessoas costumam ver os dados exibidos de maneira usual e lógica. Não respeitar os padrões da visualização de dados pode fazer seu gráfico difícil de entender, ou mesmo levar a sua audiência a uma conclusão incorreta.
+
+#### Revertendo os eixos
+
+O eixo Y quase sempre está disposto de baixo ao topo do gráfico. Aqui está um exemplo de um eixo Y revertido.
