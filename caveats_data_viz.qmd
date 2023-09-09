@@ -512,3 +512,13 @@ O eixo Y quase sempre está disposto de baixo ao topo do gráfico. Aqui está um
 ![](images/download.jpeg){fig-align="center"}
 
 Considerando que nós não estamos acostumados a ver esse tipo de eixo, é bastante difícil entender que o número de mortes por armas de fogo na Flórida aumentou entre os anos de 90 e 2010. Pior ainda, uma rápida observação no gráfico sem prestar atenção ao eixo Y pode levar a uma conclusão errônea que o número de acidentes reduziu nesse período.
+
+#### Trapacear com cores
+
+Aqui está um e-mail de marketing do Google. Ele descreve o comportamento de 41% dos clientes, mas o verde do círculo representa aparentemente 59% do gráfico, que é muito errôneo.
+
+![](images/download%20(1).jpeg){fig-align="center"}
+
+#### Conclusão
+
+Um bom gráfico inclui peças dos dados que ensinam algo novo a um leitor.
