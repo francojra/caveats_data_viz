@@ -510,3 +510,5 @@ As pessoas costumam ver os dados exibidos de maneira usual e lógica. Não respe
 O eixo Y quase sempre está disposto de baixo ao topo do gráfico. Aqui está um exemplo de um eixo Y revertido. O gráfico vem de um artigo que descreve a evolução das mortes por armas de fogo na Flórida.
 
 ![](images/download.jpeg){fig-align="center"}
+
+Considerando que nós não estamos acostumados a ver esse tipo de eixo, é bastante difícil entender que o número de mortes por armas de fogo na Flórida aumentou entre os anos de 90 e 2010. Pior ainda, uma rápida observação no gráfico sem prestar atenção ao eixo Y pode levar a uma conclusão errônea que o número de acidentes reduziu nesse período.
