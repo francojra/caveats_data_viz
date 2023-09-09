@@ -35,3 +35,12 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Soluções alternativas
 11. **Como evitar sobreplotagem**
 - Diminuir o tamanho dos pontos
+- Transparência
+- Gráfico de densidade 2D
+- Amostragem
+- Destacar um grupo
+- Agrupamento
+- Facetação
+- Jittering
+- Distribuição marginal
+12. **O que considerar quando escolher as cores na visualização de dados**
