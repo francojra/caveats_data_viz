@@ -47,3 +47,6 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Quando usar cores na visualização de dados
 - Como fazer melhores escolhas de cores
 13. **Não seja contra-intuitivo**
+- Revertendo os eixos
+- Trapacear com cores
+- Conclusão
