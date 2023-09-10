@@ -527,10 +527,12 @@ Um bom gráfico inclui peças dos dados que ensinam algo novo a um leitor. Se es
 
 Essa provavelmente é uma das armadilhas mais óbvias dessa coleção, mas provavelmente a mais frequente também. Inconsistências numéricas em um gráfico, tornam ele completamente inútil.
 
-#### Porcentagens que não somam 100%
+#### Quando as porcentagens que não somam 100%
 
 Por exemplo, quando exibimos porcentagem em um gráfico de pizza, tenha certeza que as porcentagens somam 100%.
 
 ![](images/download-07.jpeg){fig-align="center"}
 
-### 
+Além da inconsistência numérica, também notamos o uso do 3D explodido no gráfico de pizza que é provavelmente o pior erro na visualização de dados e para transmitir informações inventadas.
+
+#### Quando os valores não correspondem aos recursos visuais
