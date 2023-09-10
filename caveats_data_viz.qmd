@@ -548,3 +548,9 @@ Um gráfico de barra radial é basicamente um gráfico de barras plotado em coor
 ![](images/download%20(1)-07.png){fig-align="center"}
 
 O bom desse tipo de gráfico é que ele é bastante atraente. Entretanto, devido as barras serem plotadas sobre diferentes pontos radiais do eixo polar, eles tem diferentes raios e não podem ser comparados pelos comprimentos deles. Uma barra por fora irá ser maior pela construção que uma por dentro, mesmo que elas apresentem valores iguais.
+
+Nota: outra questão envolvendo esse gráfico é a ausência do eixo Y. Esse gráfico é feito apenas para fins ilustrativos.
+
+O problema com o gráfico radial está bem ilustrado abaixo:
+
+![](images/download%20(2)-06.png){fig-align="center"}
