@@ -540,3 +540,9 @@ Além da inconsistência numérica, também notamos o uso do 3D explodido no gr�
 No seguinte exemplo, o valor de 45% é ligada a maior parte do gráfico; claramente, existe algo errado.
 
 ![](images/download-08.png){fig-align="center"}
+
+### Cuidado com os gráficos de barras radiais
+
+Um gráfico de barra radial é basicamente um gráfico de barras plotado em coordenadas polares ao invés do plano cartesiano. O gráfico abaixo está mostrando a quantidade de armas exportadas pelos seis maiores exportadores em 2017.
+
+![](images/download%20(1)-07.png){fig-align="center"}
