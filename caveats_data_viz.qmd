@@ -522,3 +522,9 @@ Aqui está um e-mail de marketing do Google. Ele descreve o comportamento de 41%
 #### Conclusão
 
 Um bom gráfico inclui peças dos dados que ensinam algo novo a um leitor. Se essas novas peças da informação são exibidas de maneira contra-intuitiva, ela pode tornar a visualização mais fascinante, mas muito confusa ou errônea para a audiência. Em alguns casos ser criativo é necessário para uma visualização impactante, mas em geral é importante respeitar os padrões de visualização para não confundir a audiência.
+
+### Erros de cálculo
+
+Essa provavelmente é uma das armadilhas mais óbvias dessa coleção, mas provavelmente a mais frequente também. Inconsistências numéricas em um gráfico, tornam ele completamente inútil.
+
+### 
