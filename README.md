@@ -50,3 +50,6 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Revertendo os eixos
 - Trapacear com cores
 - Conclusão
+14. **Erros de cálculo**
+- Quando as porcentagens que não somam 100%
+- Quando os valores não correspondem aos recursos visuais
