@@ -536,3 +536,7 @@ Por exemplo, quando exibimos porcentagem em um gráfico de pizza, tenha certeza 
 Além da inconsistência numérica, também notamos o uso do 3D explodido no gráfico de pizza que é provavelmente o pior erro na visualização de dados e para transmitir informações inventadas.
 
 #### Quando os valores não correspondem aos recursos visuais
+
+No seguinte exemplo, o valor de 45% é ligada a maior parte do gráfico; claramente, existe algo errado.
+
+![](images/download-08.png){fig-align="center"}
