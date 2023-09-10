@@ -53,3 +53,4 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 14. **Erros de cálculo**
 - Quando as porcentagens que não somam 100%
 - Quando os valores não correspondem aos recursos visuais
+15. **Cuidado com os gráficos de barras radiais**
