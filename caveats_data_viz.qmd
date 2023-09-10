@@ -554,3 +554,9 @@ Nota: outra questão envolvendo esse gráfico é a ausência do eixo Y. Esse gr�
 O problema com o gráfico radial está bem ilustrado abaixo:
 
 ![](images/download%20(2)-06.png){fig-align="center"}
+
+#### Alternativas
+
+Por causa dessas questões, o gráfico de barras radial deve ser evitado. Ao invés, você pode construir um gráfico de barras padrão ou um gráfico lollipop ('pirulito') para exibir as informações de forma mais acurada.
+
+![](images/download%20(3)-06.png){fig-align="center"}
