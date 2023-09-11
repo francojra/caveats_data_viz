@@ -580,3 +580,9 @@ Agora, é óbvio que existe um padrão. O número de manchas solares segue a mud
 ### Não use cores que não comunicam nada
 
 Cores são um dos principais meios para comunicar uma informação na visualização de dados. Elas nos permitem destacar grupos ou variações quando usadas apropriadamente, mas por outro lado, pode confunir ou levar a conclusões errôneas.
+
+Aqui está um exemplo mostrando a quantidade de armas exportadas pelos 20 maiores exportadores do mundo em 2017.
+
+![](images/download-09.png){fig-align="center"}
+
+Aqui cada país está representado por uma cor aleatória. Ao observar isso, sua audiência pode tentar entender o que cada cor significa, e ficam menos focados sobre o principal ponto: o comprimento das barras.
