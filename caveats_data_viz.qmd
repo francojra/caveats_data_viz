@@ -586,3 +586,9 @@ Aqui está um exemplo mostrando a quantidade de armas exportadas pelos 20 maiore
 ![](images/download-09.png){fig-align="center"}
 
 Aqui cada país está representado por uma cor aleatória. Ao observar isso, sua audiência pode tentar entender o que cada cor significa, e ficam menos focados sobre o principal ponto: o comprimento das barras.
+
+#### Cor: apenas para uma informação adicional
+
+Aqui está o mesmo gráfico usando uma única cor para todos os países. Na minha opinião, ele é mais informativo.
+
+![](images/download%20(1)-08.png){fig-align="center"}
