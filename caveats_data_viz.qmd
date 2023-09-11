@@ -592,3 +592,17 @@ Aqui cada país está representado por uma cor aleatória. Ao observar isso, sua
 Aqui está o mesmo gráfico usando uma única cor para todos os países. Na minha opinião, ele é mais informativo.
 
 ![](images/download%20(1)-08.png){fig-align="center"}
+
+Note que você também pode usar cor para destacar uma específica variação em barras selecionadas, aquelas que achar mais importantes. Pessoalmente, não sou fã dessa prática, mas ela é comum.
+
+![](images/download%20(2)-07.png){fig-align="center"}
+
+#### Conclusão
+
+Quando adicionar cores ao gráfico, certifique que as cores adicionam informações. As cores são importantes para:
+
+-   Mostrar e comparar grupos;
+
+-   Destacar um item;
+
+-   Mostrar um gradiente de variação.
