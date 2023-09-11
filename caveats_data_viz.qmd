@@ -564,3 +564,9 @@ Por causa dessas questões, o gráfico de barras radial deve ser evitado. Ao inv
 ### Conecte os pontos quando o eixo X estiver ordenado
 
 Vamos considerar um conjunto de dados composto por duas variáveis numéricas. O eixo X representa os anos e o eixo Y representa o número de manchas solares entre os anos de 1749 e 1983. Manchas solares são fenômenos temporários sobre a fotosfera do sol que se parecem manchas mais escuras que as áreas em volta.
+
+![](images/unnamed-chunk-1-1.png){fig-align="center"}
+
+Aqui é difícil ver alguma tendência. Parece que não existe nenhuma relação entre tempo e número de manchas solares.
+
+Entretanto, **se o seu eixo X é ordenado**, como o tempo, **você deve conectar os pontos**.
