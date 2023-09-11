@@ -5,7 +5,7 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 ### Tópicos
 
 1. **Gráficos de barras e linhas**
-- cortar ou não cortar (o eixo y)?
+- Cortar ou não cortar (o eixo y)?
 2. **Gráficos de pizza**
 - Alternativas aos gráficos de pizza
 3. **O boxplot e suas armadilhas**
