@@ -576,3 +576,7 @@ Vamos ver como fica o mesmo gráfico agora com os pontos conectados juntos com o
 ![](images/unnamed-chunk-2-1.png){fig-align="center"}
 
 Agora, é óbvio que existe um padrão. O número de manchas solares segue a mudança no período de 11 anos da atividade solar. É possível perceber melhor a linha variando de cima para baixo ao longo do tempo regularmente. Também é claro que alguns picos são mais altos que os outros, com o número de manchas variando entre 50 e 180 aproximadamente.
+
+### Não use cores que não comunicam nada
+
+Cores são um dos principais meios para comunicar uma informação na visualização de dados. Elas nos permitem destacar grupos ou variações quando usadas apropriadamente, mas por outro lado, pode confunir ou levar a conclusões errôneas.
