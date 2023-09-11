@@ -55,3 +55,4 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Quando os valores não correspondem aos recursos visuais
 15. **Cuidado com os gráficos de barras radiais**
 - Alternativas
+16. **Conecte os pontos quando o eixo X estiver ordenado**
