@@ -570,3 +570,7 @@ Vamos considerar um conjunto de dados composto por duas variáveis numéricas. O
 Aqui é difícil ver alguma tendência. Parece que não existe nenhuma relação entre tempo e número de manchas solares.
 
 Entretanto, **se o seu eixo X é ordenado**, como o tempo, **você deve conectar os pontos**.
+
+Vamos ver como fica o mesmo gráfico agora com os pontos conectados juntos com o segmento. Nós mudamos de gráfico de dipsersão para gráfico de linha.
+
+![](images/unnamed-chunk-2-1.png){fig-align="center"}
