@@ -56,3 +56,6 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 15. **Cuidado com os gráficos de barras radiais**
 - Alternativas
 16. **Conecte os pontos quando o eixo X estiver ordenado**
+17. **Não use cores que não comunicam nada**
+- Cor: apenas para uma informação adicional
+- Conclusão
