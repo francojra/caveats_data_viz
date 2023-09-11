@@ -560,3 +560,7 @@ O problema com o gráfico radial está bem ilustrado abaixo:
 Por causa dessas questões, o gráfico de barras radial deve ser evitado. Ao invés, você pode construir um gráfico de barras padrão ou um gráfico lollipop ('pirulito') para exibir as informações de forma mais acurada.
 
 ![](images/download%20(3)-06.png){fig-align="center"}
+
+### Conecte os pontos quando o eixo X estiver ordenado
+
+Vamos considerar um conjunto de dados composto por duas variáveis numéricas. O eixo X representa os anos e o eixo Y representa o número de manchas solares entre os anos de 1749 e 1983. Manchas solares são fenômenos temporários sobre a fotosfera do sol que se parecem manchas mais escuras que as áreas em volta.
