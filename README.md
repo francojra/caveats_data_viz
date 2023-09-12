@@ -59,3 +59,7 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 17. **Não use cores que não comunicam nada**
 - Cor: apenas para uma informação adicional
 - Conclusão
+18. **Dimensionamento para raio ou área?**
+- Exemplo
+- Correção
+- Conclusão
