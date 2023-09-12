@@ -618,3 +618,11 @@ Aqui está um exemplo do discurso do State of the Union vindo do Barack Obama em
 ![](images/download-10.jpeg){fig-align="center"}
 
 Aqui, a economia dos Estados Unidos parece muito maior que as outras.
+
+#### Correção
+
+Isso distorce a percepção dos tamanhos relativos dos círculos, uma vez que o raio é dimensionado linearmente, mas a área em escala quadrática. Basicamente, o tamanho da economia dos Estados Unidos aparece muito maior do que deveria.
+
+Aqui está uma versão corrigida onde o tamanho do círculo é dimensionado para a área:
+
+![](images/download%20(1)-09.jpeg){fig-align="center"}
