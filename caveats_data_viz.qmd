@@ -613,4 +613,8 @@ Uma prática comum na visualização de dados consiste no dimensionamento de um 
 
 #### Exemplo
 
-Aqui está um exemplo do discurso do State of the Union vindo do Barack Obama em 2011. Ele mostra o produto interno bruto de 2010 de 5 países, onde cada valor representa um círculo.
+Aqui está um exemplo do discurso do State of the Union vindo do Barack Obama em 2011. Ele mostra o produto interno bruto de 2010 de 5 países, onde cada valor representa um círculo. O raio de cada círculo tem sido dimensionado baseado no tamanho da economia de cada nação.
+
+![](images/download-10.jpeg){fig-align="center"}
+
+Aqui, a economia dos Estados Unidos parece muito maior que as outras.
