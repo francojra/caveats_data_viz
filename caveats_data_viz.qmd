@@ -606,3 +606,7 @@ Quando adicionar cores ao gráfico, certifique que as cores adicionam informaç�
 -   Destacar um item;
 
 -   Mostrar um gradiente de variação.
+
+### Dimensionamento para raio ou área?
+
+Uma prática comum na visualização de dados consiste no dimensionamento de um componente gráfico para um valor numérico. Por exemplo, os comprimentos das barras são dimensionados para valores em um gráfico de barras. Quando o valor é dimensionado para uma área, o escalonamento dele por duas áreas ao mesmo tempo produz um efeito quadrático para uma mudança linear. Isso amplifica as diferenças.
