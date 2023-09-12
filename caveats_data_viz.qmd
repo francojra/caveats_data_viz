@@ -610,3 +610,7 @@ Quando adicionar cores ao gráfico, certifique que as cores adicionam informaç�
 ### Dimensionamento para raio ou área?
 
 Uma prática comum na visualização de dados consiste no dimensionamento de um componente gráfico para um valor numérico. Por exemplo, os comprimentos das barras são dimensionados para valores em um gráfico de barras. Quando o valor é dimensionado para uma área, o escalonamento dele por duas áreas ao mesmo tempo produz um efeito quadrático para uma mudança linear. Isso amplifica as diferenças.
+
+#### Exemplo
+
+Aqui está um exemplo do discurso do State of the Union vindo do Barack Obama em 2011. Ele mostra o produto interno bruto de 2010 de 5 países, onde cada valor representa um círculo.
