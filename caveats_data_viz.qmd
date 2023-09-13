@@ -659,4 +659,6 @@ Note que a versão horizontal nem sempre é a melhor. Se sua variável categóri
 
 Gráfico de barras circular é uma boa alternativa ao clássico gráfico de barras. É basicamente o mesmo gráfico com cada barra ao longo de um círculo ao invés de uma linha, resultando em uma figura mais atraente.
 
-Entretanto, os gráficos de barra circular são menos eficientes em mostrar os dados de forma acurada. De fato, é difícil comparar os comprimentos das barras desde que eles não estão na mesma linha.
+Entretanto, os gráficos de barra circular são menos eficientes em mostrar os dados de forma acurada. De fato, é difícil comparar os comprimentos das barras desde que eles não estão na mesma linha. Além disso, a base interna das barras ficam bem menores que a base externa. Isto resulta em um viés: grupos com maiores valores aparecem bem maiores do que são na realidade.
+
+Esse viés é ainda mais importante se:
