@@ -682,3 +682,7 @@ Gráfico de barras circular podem ser boas opções em condições muito especí
 ![](images/download%20(3)-07.png){fig-align="center"}
 
 Nota: não esqueça de adicionar uma legenda para as cores e uma escala para a altura das barras.
+
+### A questão do gráfico 3D na visualização de dados
+
+Objetos 3D são muito populares mas afetam negativamente a acurácia e velocidade em que nós podemos interpretar o gráfico na maioria dos casos. Aqui está uma revisão dos principais tipos de gráficos envolvendo 3D, com a discussão de quando ou não eles podem ser condierados uma prática ruim.
