@@ -710,3 +710,11 @@ Nada é pior que um gráfico de pizza na visualização de dados, exceto o gráf
 [Alternativa]{.underline}: não use gráfico de pizza.
 
 #### Gráficos de dispersão 3D estáticos: não
+
+O gráfico de dispersão 3D é um outro comum uso na visualização de dados. Esse tipo de gráfico apresenta 3 variáveis numéricas que são representadas nos eixos X, Y e Z.
+
+A acurácia do gráfico de dispersão 3D ainda é discutida. Por exemplo, tentar determinar as coordenadas X, Y e Z de um específico ponto. Você vai perceber que é bastante impossível devido aos olhos humanos ler 3D pobremente. Assim, falta acurácia neste gráfico.
+
+![](images/download%20(6)-03.png){fig-align="center"}
+
+Alternativa: use um gráfico de bolhas, ou um gráfico de dispersão com gradiente de cores.
