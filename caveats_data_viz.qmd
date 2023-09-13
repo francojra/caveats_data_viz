@@ -670,3 +670,13 @@ Esse viés é ainda mais importante se:
 ![](images/download%20(2)-08.png){fig-align="center"}
 
 #### Resolvendo a questão
+
+Gráfico de barras circular podem ser boas opções em condições muito específicas. Você necessita de:
+
+-   um grande número de barras;
+
+-   um claro padrão nos dados: se todos os grupos tem quase o mesmo valor, a versão circular não será acurada para comparação;
+
+-   manter um raio interno maior.
+
+![](images/download%20(3)-07.png){fig-align="center"}
