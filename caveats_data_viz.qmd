@@ -654,3 +654,7 @@ Note que a versão horizontal nem sempre é a melhor. Se sua variável categóri
 -   você está apresentando séries temporais: tempo deve estar representado no eixo X por padrão. Não fazer isso pode confundir seu público;
 
 -   você tem uma variável ordinal como faixa etária.
+
+### Gráfico de barras circular e distorção
+
+Gráfico de barras circular é uma boa alternativa ao clássico gráfico de barras. É basicamente o mesmo gráfico com cada barra ao longo de um círculo ao invés de uma linha, resultando em uma figura mais atraente.
