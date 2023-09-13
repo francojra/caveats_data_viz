@@ -634,3 +634,5 @@ O Estados Unidos ainda apresenta a maior economia, mas a diferença não é tão
 Quando trabalhar com objetos 2D, o dimensionamento deve ser feito usando a área e não o raio. Além disso, note que áreas são metáforas pobres de valores, sendo mal percebidas pelos olhos humanos. Ele deve ser usado apenas quando melhores recursos visuais já estiverem sido usados no gráfico, como o bubble plot. Neste caso, um gráfico de barras provavelmente teria feito um trabalho melhor.
 
 ### Um nota sobre rótulos longos
+
+Na maioria das vezes, gráficos de barras e lollipop são plotados verticalmente com o eixo Y representando o valor da variável numérica.
