@@ -724,3 +724,9 @@ A acurácia do gráfico de dispersão 3D ainda é discutida. Por exemplo, tentar
 Em minha opinião, o gráfico de dispersão 3D pode fazer sentido apenas se você pode interagir com o gráfico. Você pode usar o mouse para mudar a orientação do gráfico e dar um zoom. Ele permite um real sentimento do gráfico 3D que não existiria sem ele. Ainda, nesse caso, é difícil obter acurácia dos pontos nas coordenadas, mas permite explorar eficientemente a estrutura dos grupos.
 
 ![](images/download%20(7)-03.png){fig-align="center"}
+
+#### Gráfico de superfície: por que não?
+
+Se você tem uma grade de coordenadas com variáveis numéricas em cada posição, você pode representar seus dados usando um gráfico de superfície. Esse tipo de representação faz sentido especialmente se o valor numérico representa uma altitude. Nesse caso, nós acuradamente construimos um elemento 3D que é um real objeto em 3D, fazendo mais sentido.
+
+![](images/superficie.png){fig-align="center"}
