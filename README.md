@@ -66,3 +66,5 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 19. **Um nota sobre rótulos longos**
 - Resolvendo essa questão
 - Aviso
+20. **Gráfico de barras circular e distorção**
+- Resolvendo a questão
