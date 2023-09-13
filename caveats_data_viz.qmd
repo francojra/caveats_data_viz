@@ -635,4 +635,4 @@ Quando trabalhar com objetos 2D, o dimensionamento deve ser feito usando a área
 
 ### Um nota sobre rótulos longos
 
-Na maioria das vezes, gráficos de barras e lollipop são plotados verticalmente com o eixo Y representando o valor da variável numérica.
+Na maioria das vezes, gráficos de barras e lollipop são plotados verticalmente com o eixo Y representando o valor da variável numérica. Se os rótulos da variável X são longos, eles devem ser rotacionados para que não ocorra sobreposição. Como resultado, esses rótulos se tornam difíceis de serem lidos.
