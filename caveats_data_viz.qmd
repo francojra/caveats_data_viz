@@ -648,3 +648,9 @@ A alternativa é muito simples, por que não considerar uma versão horizontal d
 ![](images/download%20(1)-10.png){fig-align="center"}
 
 #### Aviso
+
+Note que a versão horizontal nem sempre é a melhor. Se sua variável categórica tem uma ordem natural, é melhor manter a versão vertical. Isto acontece quando:
+
+-   você está apresentando séries temporais: tempo deve estar representado no eixo X por padrão. Não fazer isso pode confundir seu público;
+
+-   você tem uma variável ordinal como faixa etária.
