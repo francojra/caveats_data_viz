@@ -717,4 +717,10 @@ A acurácia do gráfico de dispersão 3D ainda é discutida. Por exemplo, tentar
 
 ![](images/download%20(6)-03.png){fig-align="center"}
 
-Alternativa: use um gráfico de bolhas, ou um gráfico de dispersão com gradiente de cores.
+[Alternativa]{.underline}: use um gráfico de bolhas, ou um gráfico de dispersão com gradiente de cores.
+
+#### Gráfico de dispersão 3D interativo: talvez
+
+Em minha opinião, o gráfico de dispersão 3D pode fazer sentido apenas se você pode interagir com o gráfico. Você pode usar o mouse para mudar a orientação do gráfico e dar um zoom. Ele permite um real sentimento do gráfico 3D que não existiria sem ele. Ainda, nesse caso, é difícil obter acurácia dos pontos nas coordenadas, mas permite explorar eficientemente a estrutura dos grupos.
+
+![](images/download%20(7)-03.png){fig-align="center"}
