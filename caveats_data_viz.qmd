@@ -640,3 +640,11 @@ Na maioria das vezes, gráficos de barras e lollipop são plotados verticalmente
 ![](images/download-11.png){fig-align="center"}
 
 Nota: esse gráfico de barras mostra a quantidade de armas exportadas pelos 20 maiores países exportadores em 2017.
+
+#### Resolvendo essa questão
+
+A alternativa é muito simples, por que não considerar uma versão horizontal do gráfico?
+
+![](images/download%20(1)-10.png){fig-align="center"}
+
+#### Aviso
