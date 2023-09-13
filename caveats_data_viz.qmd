@@ -680,3 +680,5 @@ Gráfico de barras circular podem ser boas opções em condições muito especí
 -   manter um raio interno maior.
 
 ![](images/download%20(3)-07.png){fig-align="center"}
+
+Nota: não esqueça de adicionar uma legenda para as cores e uma escala para a altura das barras.
