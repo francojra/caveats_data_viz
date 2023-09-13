@@ -68,3 +68,9 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Aviso
 20. **Gráfico de barras circular e distorção**
 - Resolvendo a questão
+21. **A questão do gráfico 3D na visualização de dados**
+- Gráficos de barras 3D: não
+- Gráficos de pizza 3D: não
+- Gráficos de dispersão 3D estáticos: não
+- Gráfico de dispersão 3D interativo: talvez
+- Gráfico de superfície: por que não?
