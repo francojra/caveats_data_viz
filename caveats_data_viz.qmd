@@ -686,3 +686,17 @@ Nota: não esqueça de adicionar uma legenda para as cores e uma escala para a a
 ### A questão do gráfico 3D na visualização de dados
 
 Objetos 3D são muito populares mas afetam negativamente a acurácia e velocidade em que nós podemos interpretar o gráfico na maioria dos casos. Aqui está uma revisão dos principais tipos de gráficos envolvendo 3D, com a discussão de quando ou não eles podem ser condierados uma prática ruim.
+
+#### Gráficos de barras 3D: não
+
+Você provavelmente tem familiaridade com esse tipo de gráfico que costuma ser criado com Excel, e assim é grandemente usado. Comparado com o clássico gráfico de barras agrupado, essa representação tem severas desvantagens:
+
+-   é mais difícil de encontrar as porcentagens exatas das barras;
+
+-   para valores equivalentes, as barras verdes na parte de trás parecem menores do que as barras azuis na frente;
+
+-   algumas barras verdes de trás ficam escondidas.
+
+![](images/download%20(4)-03.png){fig-align="center"}
+
+[Alternativa]{.underline}: basta seguir um gráfico de barras normal.
