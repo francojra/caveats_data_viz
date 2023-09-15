@@ -78,3 +78,7 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Brincando com as proporções
 - Alvo de 45 graus
 - Interatividade
+23. **A questão do empilhamento**
+- O que é o empilhamento?
+- Céu ou inferno?
+- Exemplo: aritmética mental
