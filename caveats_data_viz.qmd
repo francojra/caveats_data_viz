@@ -780,3 +780,7 @@ A eficiência dos gráficos empilhados é discutida e ele deve ser usado com cui
 -   Os gráficos empilhados são apropriados para estudar a evolução do todo e as proporções relativas de cada grupo. De fato, o topo das áreas ajuda a visualizar como o todo se comporta. No gráfico anterior, é fácil ver que em 1920, Helen e Dorothy foram nomes comuns mas os outros 4 nomes quase não existiram no mesmo período.
 
 -   Entretanto, esses gráficos não são apropriados para estudar a evolução de cada grupo individual. Isso é devido a duas principais razões. Primeiro, alguns grupos não tem a base plana, o que torna muito difícil entender os valores dos grupos em cada período de tempo.
+
+#### Exemplo: aritmética mental
+
+No primeiro gráfico, tente encontrar quantas vezes o nome de Dorothy apareceu em 1920. Não é fácil encontrar os valores exatos usando esse tipo de gráfico. Você deve ter calculado mentalmente entre 25000 e 75000 de forma bem complicada. Você quer comunicar uma mensagem de forma eficiente, não que sua audiência faça uma performance aritmética.
