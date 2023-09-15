@@ -746,3 +746,7 @@ O ciclo solar é bastante óbvio na figura. O número de manchas solares segue e
 Agora vamos mudar as proporções da figura, tornando ela mais larga e menos alta. Para exagerar o efeito, o gráfico é ampliado para o período de 1800 a 1900.
 
 ![](images/download%20(1)-11.png){fig-align="center"}
+
+As conclusões encontradas no primeiro gráfico são verdadeiras, mas aqui um novo padrão é visível. O número de manchas solares aumenta mais rápido do que diminui. Isso é devido ao fato que a taxa de decaimento das manchas é menor que a taxa de formação.
+
+No primeiro gráfico, esse padrão não é visível desde que as linhas são quase verticais do topo para a base do eixo. No segundo gráfico, com o declive menos íngreme, o padrão é visível.
