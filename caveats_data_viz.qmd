@@ -740,3 +740,9 @@ Aqui está um exemplo com um gráfico de linhas mostrando o número de manchas s
 ![](images/download-12.png){fig-align="center"}
 
 O ciclo solar é bastante óbvio na figura. O número de manchas solares segue essa mudança periódica de onze anos da atividade solar, fazendo a linha do topo para a base regularmente. Também é óbvio que alguns picos são mais altos que outros, com o máximo número de manchas solares variando de 50 a 180.
+
+#### Brincando com as proporções
+
+Agora vamos mudar as proporções da figura, tornando ela mais larga e menos alta. Para exagerar o efeito, o gráfico é ampliado para o período de 1800 a 1900.
+
+![](images/download%20(1)-11.png){fig-align="center"}
