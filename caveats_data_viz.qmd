@@ -7,7 +7,7 @@ author: Jeanne Raquel de Andrade Franco
 lang: pt
 ---
 
-### Gráficos de barras e linhas
+#### Gráficos de barras e linhas
 
 #### Cortar ou não cortar (o eixo y)?
 
@@ -772,3 +772,11 @@ Aqui está um exemplo do gráfico de área empilhada. Ele mostra a evolução do
 ![](images/plot.png){fig-align="center"}
 
 Empilhamento é uma prática comum na visualização de dados. Ele ocorre em três principais tipos de de gráficos que são altamente relacionados: gráficos de área, gráficos de barras e fluxogramas.
+
+#### Céu ou inferno?
+
+A eficiência dos gráficos empilhados é discutida e ele deve ser usado com cuidado. Para resumir:
+
+-   Os gráficos empilhados são apropriados para estudar a evolução do todo e as proporções relativas de cada grupo. De fato, o topo das áreas ajuda a visualizar como o todo se comporta. No gráfico anterior, é fácil ver que em 1920, Helen e Dorothy foram nomes comuns mas os outros 4 nomes quase não existiram no mesmo período.
+
+-   
