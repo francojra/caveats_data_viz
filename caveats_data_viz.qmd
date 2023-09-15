@@ -770,3 +770,5 @@ Empilhamento é o processo em que um gráfico é quebrado em mais de uma variáv
 Aqui está um exemplo do gráfico de área empilhada. Ele mostra a evolução dos nomes de bebês dos Estados Unidos entre 1880 e 2015. Os seis primeiros nomes mais comuns estão representados nos topos das áreas.
 
 ![](images/plot.png){fig-align="center"}
+
+Empilhamento é uma prática comum na visualização de dados. Ele ocorre em três principais tipos de de gráficos que são altamente relacionados: gráficos de área, gráficos de barras e fluxogramas.
