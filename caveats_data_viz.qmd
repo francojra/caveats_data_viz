@@ -750,3 +750,11 @@ Agora vamos mudar as proporções da figura, tornando ela mais larga e menos alt
 As conclusões encontradas no primeiro gráfico são verdadeiras, mas aqui um novo padrão é visível. O número de manchas solares aumenta mais rápido do que diminui. Isso é devido ao fato que a taxa de decaimento das manchas é menor que a taxa de formação.
 
 No primeiro gráfico, esse padrão não é visível desde que as linhas são quase verticais do topo para a base do eixo. No segundo gráfico, com o declive menos íngreme, o padrão é visível.
+
+#### Alvo de 45 graus
+
+Aqui é uma figura do W. S. Cleveland explicando que a proporção de tela de um gráfico deve ter um ângulo de 45 graus nesse tipo de gráfico. Ele mostra o que acontece quando os ângulos são muito grandes ou muito pequenos.
+
+![](images/download%20(2)-09.png){fig-align="center"}
+
+#### Interatividade
