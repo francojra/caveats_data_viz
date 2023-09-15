@@ -730,3 +730,7 @@ Em minha opinião, o gráfico de dispersão 3D pode fazer sentido apenas se voc�
 Se você tem uma grade de coordenadas com variáveis numéricas em cada posição, você pode representar seus dados usando um gráfico de superfície. Esse tipo de representação faz sentido especialmente se o valor numérico representa uma altitude. Nesse caso, nós acuradamente construimos um elemento 3D que é um real objeto em 3D, fazendo mais sentido.
 
 ![](images/superficie.png){fig-align="center"}
+
+### Cuidado com a proporção de tela
+
+Proporção de tela é definido como a relação ou proporção entre largura e altura do gráfico. Isso pode ter um forte impacto sobre as percepções obtidas com seu gráfico.
