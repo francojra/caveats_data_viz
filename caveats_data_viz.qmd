@@ -800,3 +800,9 @@ Agora vamos plotar apenas o grupo verde:
 Parece que interpretamos muito errado. Isso ocorre devido a uma ilusão de ótica. O olho humano não é bom em avaliar esse tipo de padrão visual, então esse gráfico deve ser evitado.
 
 #### Alternativas
+
+Se você tem poucas categorias, eu sugiro construir um gráfico de linhas. Nesse gráfico fica fácil visualizar a tendência de cada categoria ao longo do tempo e entender de forma acurada.
+
+![](images/download%20(5)-04.png){fig-align="center"}
+
+Entretanto, essa solução não é adequada se você tem muitas categorias. De fato, isso resultaria em um gráfico de espaguetes difícil de ler.
