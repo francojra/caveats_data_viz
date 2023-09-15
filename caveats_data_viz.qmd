@@ -758,3 +758,5 @@ Aqui é uma figura do W. S. Cleveland explicando que a proporção de tela de um
 ![](images/download%20(2)-09.png){fig-align="center"}
 
 #### Interatividade
+
+Nesse tipo de situação, produzir um gráfico interativo permite ao usuário dar zoom em uma parte específica e assim tentar várias diferentes proporções. Permitir esse tipo de exploração melhora bastante o valor do seu gráfico.
