@@ -784,3 +784,19 @@ A eficiência dos gráficos empilhados é discutida e ele deve ser usado com cui
 #### Exemplo: aritmética mental
 
 No primeiro gráfico, tente encontrar quantas vezes o nome de Dorothy apareceu em 1920. Não é fácil encontrar os valores exatos usando esse tipo de gráfico. Você deve ter calculado mentalmente entre 25000 e 75000 de forma bem complicada. Você quer comunicar uma mensagem de forma eficiente, não que sua audiência faça uma performance aritmética.
+
+#### Exemplo: ilusão de ótica
+
+O Dr. Drang fornece esse exemplo bacana. Considere o gráfico abaixo, e tente visualizar como as 3 categorias estão envolvidas nesse período.
+
+![](images/download%20(3)-08.png){fig-align="center"}
+
+Parece óbvio que a categoria do amarelo aumentou, o roxo diminuiu, e o verde...é difícil de entender. No primeiro olhar, eu diria que parece diminuir ligeiramente.
+
+Agora vamos plotar apenas o grupo verde:
+
+![](images/download%20(4)-04.png){fig-align="center"}
+
+Parece que interpretamos muito errado. Isso ocorre devido a uma ilusão de ótica. O olho humano não é bom em avaliar esse tipo de padrão visual, então esse gráfico deve ser evitado.
+
+#### Alternativas
