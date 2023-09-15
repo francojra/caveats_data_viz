@@ -739,7 +739,7 @@ Aqui está um exemplo com um gráfico de linhas mostrando o número de manchas s
 
 ![](images/download-12.png){fig-align="center"}
 
-O ciclo solar é bastante óbvio na figura. O número de manchas solares segue essa mudança periódica de onze anos da atividade solar, fazendo a linha do topo para a base regularmente. Também é óbvio que alguns picos são mais altos que outros, com o máximo número de manchas solares variando de 50 a 180.
+O ciclo solar é bastante óbvio na figura. O número de manchas solares segue essa mudança periódica de 11 anos da atividade solar, fazendo a linha do topo para a base regularmente. Também é óbvio que alguns picos são mais altos que outros, com o máximo número de manchas solares variando de 50 a 180.
 
 #### Brincando com as proporções
 
@@ -760,3 +760,13 @@ Aqui é uma figura do W. S. Cleveland explicando que a proporção de tela de um
 #### Interatividade
 
 Nesse tipo de situação, produzir um gráfico interativo permite ao usuário dar zoom em uma parte específica e assim tentar várias diferentes proporções. Permitir esse tipo de exploração melhora bastante o valor do seu gráfico.
+
+### A questão do empilhamento
+
+#### O que é o empilhamento?
+
+Empilhamento é o processo em que um gráfico é quebrado em mais de uma variável categórica que constitui o todo. Cada item da variável categórica é representada por uma área. Essas áreas são empilhadas umas sobre as outras.
+
+Aqui está um exemplo do gráfico de área empilhada. Ele mostra a evolução dos nomes de bebês dos Estados Unidos entre 1880 e 2015. Os seis primeiros nomes mais comuns estão representados nos topos das áreas.
+
+![](images/plot.png){fig-align="center"}
