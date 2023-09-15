@@ -734,3 +734,7 @@ Se você tem uma grade de coordenadas com variáveis numéricas em cada posiçã
 ### Cuidado com a proporção de tela
 
 Proporção de tela é definido como a relação ou proporção entre largura e altura do gráfico. Isso pode ter um forte impacto sobre as percepções obtidas com seu gráfico.
+
+Aqui está um exemplo com um gráfico de linhas mostrando o número de manchas solares anuais entre os anos de 1749 e 1983.
+
+![](images/download-12.png){fig-align="center"}
