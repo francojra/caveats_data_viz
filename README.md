@@ -74,3 +74,7 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Gráficos de dispersão 3D estáticos: não
 - Gráfico de dispersão 3D interativo: talvez
 - Gráfico de superfície: por que não?
+22. **Cuidado com a proporção de tela**
+- Brincando com as proporções
+- Alvo de 45 graus
+- Interatividade
