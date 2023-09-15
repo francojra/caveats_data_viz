@@ -82,3 +82,5 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - O que é o empilhamento?
 - Céu ou inferno?
 - Exemplo: aritmética mental
+- Exemplo: ilusão de ótica
+- Alternativas
