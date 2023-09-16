@@ -840,3 +840,7 @@ Ao invés de forçar o leitor a fazer esse cálculo, é provavelmente melhor rep
 ![](images/download%20(1)-12.png){fig-align="center"}
 
 Claro, se mais pessoas deixam o shopping que entram, a quantidade total começa a diminuir (marcador B). Mas, se você quiser que a audiência foque sobre este ponto, não lhes dê trabalho extra.
+
+#### Ligação com gráficos de empilhamento
+
+O problema está bem relacionado a questão de empilhamento de fatores em gráficos.
