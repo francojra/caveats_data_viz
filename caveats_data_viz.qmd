@@ -838,3 +838,5 @@ Para responder as questões acima, sua audiência teria que pensar muito e isso 
 Ao invés de forçar o leitor a fazer esse cálculo, é provavelmente melhor representar o número de pessoas no shopping diretamente:
 
 ![](images/download%20(1)-12.png){fig-align="center"}
+
+Claro, se mais pessoas deixam o shopping que entram, a quantidade total começa a diminuir (marcador B). Mas, se você quiser que a audiência foque sobre este ponto, não lhes dê trabalho extra.
