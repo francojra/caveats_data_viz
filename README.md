@@ -88,3 +88,5 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Exemplo
 - Aritmética mental
 - Ligação com gráficos de empilhamento
+25. **A área é uma metáfora pobre**
+- Conclusão
