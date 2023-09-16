@@ -818,3 +818,11 @@ Ao invés, você pode usar um gráfico com pequenas múltiplas janelas. Aqui, ca
 Vamos considerar o número de pessoas entrando e deixando o shopping entre 8 e 10 horas da noite. Essa é uma acurada representação usando um gráfico de linhas, que responde muito bem a questão de quantas pessoas entram e deixam o shopping.
 
 ![](images/download-13.png){fig-align="center"}
+
+Agora, se alguém te perguntar:
+
+-   qual a tendência do número total de pessoas no shopping?
+
+-   que horas o número de pessoas no shopping declina?
+
+#### Aritmética mental
