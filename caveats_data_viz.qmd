@@ -844,3 +844,9 @@ Claro, se mais pessoas deixam o shopping que entram, a quantidade total começa 
 #### Ligação com gráficos de empilhamento
 
 O problema está bem relacionado a questão de empilhamento de fatores em gráficos.
+
+### A área é uma metáfora pobre
+
+Os olhos humanos não performam bem quando eles precisam traduzir áreas para valores numéricos. Vamos considerar as seguintes cinco bolhas. Tente ranquear elas em ordem decrescente. Você provavelmente irá concordar que isso é possível, mas toma algum tempo.
+
+![](images/download%20(2)-10.png){fig-align="center"}
