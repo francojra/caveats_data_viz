@@ -850,3 +850,13 @@ O problema está bem relacionado a questão de empilhamento de fatores em gráfi
 Os olhos humanos não performam bem quando eles precisam traduzir áreas para valores numéricos. Vamos considerar as seguintes cinco bolhas. Tente ranquear elas em ordem decrescente. Você provavelmente irá concordar que isso é possível, mas toma algum tempo.
 
 ![](images/download%20(2)-10.png){fig-align="center"}
+
+Agora vamos representar os exatos mesmos valores usando barras:
+
+![](images/download%20(3)-09.png){fig-align="center"}
+
+Agora ficou muito mais fácil, não é?
+
+#### Conclusão
+
+Isso não significa que áreas nunca deverão ser usadas para representar valores numéricos. Isso significa que outras formas e técnicas devem ser consideradas antes de usar as áreas. Por exemplo, o [gráfico de bolhas](https://www.data-to-viz.com/graph/bubble.html) faz um bom trabalho representando três variáveis numéricas.
