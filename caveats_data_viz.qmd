@@ -826,3 +826,15 @@ Agora, se alguém te perguntar:
 -   que horas o número de pessoas no shopping declina?
 
 #### Aritmética mental
+
+Para responder as questões acima, sua audiência teria que pensar muito e isso provavelmente causaria uma confusão.
+
+-   O marcador A indica onde o número de pessoas entrando no shopping começa a diminuir?
+
+-   Ou marcador B indica onde mais pessoas estão deixando que entrando no shopping?
+
+-   Ou o C é onde o número de pessoas que estão deixando o shopping diminui?
+
+Ao invés de forçar o leitor a fazer esse cálculo, é provavelmente melhor representar o número de pessoas no shopping diretamente:
+
+![](images/download%20(1)-12.png){fig-align="center"}
