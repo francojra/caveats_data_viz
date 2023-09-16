@@ -84,3 +84,7 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Exemplo: aritmética mental
 - Exemplo: ilusão de ótica
 - Alternativas
+24. **Aritmética mental na visualização de dados**
+- Exemplo
+- Aritmética mental
+- Ligação com gráficos de empilhamento
