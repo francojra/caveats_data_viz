@@ -810,3 +810,9 @@ Entretanto, essa solução não é adequada se você tem muitas categorias. De f
 Ao invés, você pode usar um gráfico com pequenas múltiplas janelas. Aqui, cada categoria tem sua própria seção no gráfico. Isso torna mais fácil entender o padrão de cada categoria.
 
 ![](images/download%20(6)-04.png){fig-align="center"}
+
+### Aritmética mental na visualização de dados
+
+#### Exemplo
+
+Vamos considerar o número de pessoas entrando e deixando o shopping entre 8 e 10 horas da noite. Essa é uma acurada representação usando um gráfico de linhas.
