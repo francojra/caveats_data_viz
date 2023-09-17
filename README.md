@@ -92,3 +92,9 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Conclusão
 26. **O gráfico de barras agrupado deve estar agrupado**
 - Resolvendo a questão
+27. **Organizando seu gráfico**
+- Gráfico inicial
+- Aparência final
+- Passo a passo
+28. **Consistência entre gráficos**
+- Seja consistente
