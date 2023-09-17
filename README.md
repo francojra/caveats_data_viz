@@ -90,3 +90,5 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Ligação com gráficos de empilhamento
 25. **A área é uma metáfora pobre**
 - Conclusão
+26. **Gráfico de barras agrupado deve estar agrupado**
+- Resolvendo a questão
