@@ -905,4 +905,6 @@ Aqui estão os componentes que você pode remover ao construir seu gráfico:
 
 -   Brique com as fontes e tamanhos de textos: alguns textos são mais importantes que outros.
 
-Aqui está
+Aqui está uma animação mostrando a evolução do primeiro gráfico para o último, seguindo os passos para melhorá-lo.
+
+![](images/download.gif){fig-align="center"}
