@@ -878,3 +878,11 @@ A solução é bastante simples, basta agrupar as barras, neste caso estão agru
 ### Organizando seu gráfico
 
 Se livrar de todos elementos desnecessários pode melhorar bastante a qualidade e impacto do seu gráfico. Primeiro, o gráfico ficará mais claro e assim mais fácil de ser interpretado pelas pessoas. Segundo, ele irá permitir as pessoas atingir o alvo da principal informação do gráfico.
+
+#### Gráfico inicial
+
+A ideia desse gráfico é mostrar que as mulheres tendem a fazer compras de natal mais cedo do que os homens:
+
+![](images/download%20(2)-11.png){fig-align="center"}
+
+#### Aparência final
