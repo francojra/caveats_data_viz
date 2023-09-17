@@ -868,3 +868,9 @@ O gráfico de barras agrupado exibe os valores de uma variável numérica corres
 Quando construimos um gráfico de barras agrupado, devemos ter certeza que suas barras estão de fato agrupadas: as barras dentro de um grupo devem estar mais próximas ao mesmo grupo relacionado do que as barras de outros grupos. Neste exemplo abaixo, as barras não estão agrupadas, tornando difícil distinguir os grupos.
 
 ![](images/download-14.png){fig-align="center"}
+
+#### Resolvendo a questão
+
+A solução é bastante simples, basta agrupar as barras, neste caso estão agrupadas por período:
+
+![](images/download%20(1)-13.png){fig-align="center"}
