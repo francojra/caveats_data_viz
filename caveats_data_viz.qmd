@@ -932,3 +932,7 @@ Quando você tem vários gráficos relacionados, use a mesma cor para os mesmos 
 #### Definição
 
 O gráfico de aranha ou gráfico de radar é um tipo de gráfico bi-dimensional desenhado para representar uma ou mais série de valores ao longo de múltiplas variáveis quantitativas. Cada variável tem seu próprio eixo e todos os eixos são unidos no centro da figura.
+
+Vamos considerar os resultados de um exame de um estudante. Ele tem marcado pontuações de 0 a 20 para dez tópicos como matemática, esportes, estatística, etc. O gráfico de radar promoveu um eixo para cada tópico. A forma do gráfico permite você ver quais tópicos o estudante performou melhor ou pior.
+
+![](images/download%20(6)-05.png){fig-align="center"}
