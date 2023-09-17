@@ -926,3 +926,9 @@ Aqui, é muito difícil fazer uma ligação entre os dois gráficos apesar deles
 Quando você tem vários gráficos relacionados, use a mesma cor para os mesmos itens ao longo do relatório.
 
 ![](images/download%20(5)-05.png){fig-align="center"}
+
+### O gráfico de aranha e seus alertas
+
+#### Definição
+
+O gráfico de aranha ou gráfico de radar é um tipo de gráfico bi-dimensional desenhado para representar uma ou mais série de valores ao longo de múltiplas variáveis quantitativas. Cada variável tem seu próprio eixo e todos os eixos são unidos no centro da figura.
