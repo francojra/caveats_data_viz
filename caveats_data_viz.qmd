@@ -908,3 +908,13 @@ Aqui estão os componentes que você pode remover ao construir seu gráfico:
 Aqui está uma animação mostrando a evolução do primeiro gráfico para o último, seguindo os passos para melhorá-lo.
 
 ![](images/download.gif){fig-align="center"}
+
+### Consistência entre gráficos
+
+Vamos considerar um pequeno relatório onde você apresenta vários gráficos para sua audiência. O relatório é composto por:
+
+-   um gráfico de barras mostrando a quantidade total de dinheiro gasto sobre cinco produtos;
+
+-   um gráfico de linhas mostrando a evolução do dinheiro gerado por esses cinco produtos nos últimos dez anos.
+
+![](images/download%20(4)-05.png){fig-align="center"}
