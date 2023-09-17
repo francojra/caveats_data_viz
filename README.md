@@ -98,3 +98,5 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Passo a passo
 28. **Consistência entre gráficos**
 - Seja consistente
+29. **O gráfico de aranha e seus alertas**
+- Definição
