@@ -920,3 +920,9 @@ Vamos considerar um pequeno relatório onde você apresenta vários gráficos pa
 ![](images/download%20(4)-05.png){fig-align="center"}
 
 Aqui, é muito difícil fazer uma ligação entre os dois gráficos apesar deles estarem relacionados, devido a paleta de cores deles ser diferente. O produto A no gráfico da esquerda está em uma cor roxa escura e no gráfico da direita em uma cor vermelha. Isso leva tempo para fazer uma ligação entre os gráficos.
+
+#### Seja consistente
+
+Quando você tem vários gráficos relacionados, use a mesma cor para os mesmos itens ao longo do relatório.
+
+![](images/download%20(5)-05.png){fig-align="center"}
