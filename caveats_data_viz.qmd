@@ -886,3 +886,23 @@ A ideia desse gráfico é mostrar que as mulheres tendem a fazer compras de nata
 ![](images/download%20(2)-11.png){fig-align="center"}
 
 #### Aparência final
+
+![](images/download%20(3)-10.png){fig-align="center"}
+
+#### Passo a passo
+
+Aqui estão os componentes que você pode remover ao construir seu gráfico:
+
+-   3D (sempre);
+
+-   Efeitos de cores para decoração (sempre);
+
+-   Linhas de grade (se não forem necessárias);
+
+-   Eixos (se não forem necessários);
+
+-   Decimais;
+
+-   Brique com as fontes e tamanhos de textos: alguns textos são mais importantes que outros.
+
+Aqui está
