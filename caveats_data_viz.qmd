@@ -980,3 +980,7 @@ Os gráficos de aranha costumam ser crticiados por:
 -   Se você tem duas séries, você ainda pode brincar com o gráfico de barras ou pirulito. Esse gráfico abaixo foca no primeiro estudantes com círculos azuis escuros e permite comparar os dados com um outro estudante (círculos azuis claros).
 
 ![](images/download%20(7)-04.png){fig-align="center"}
+
+-   Se você tem algumas poucas séries, use o facetamento com gráficos de barras ou de pirulito para ajudar a resolver o problema.
+
+![](images/download%20(8)-02.png){fig-align="center"}
