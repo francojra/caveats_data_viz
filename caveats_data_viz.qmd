@@ -956,3 +956,5 @@ Os gráficos de aranha costumam ser crticiados por:
 ![](images/download%20(2)-12.png){fig-align="center"}
 
 ![](images/download%20(3)-11.png){fig-align="center"}
+
+-   Suporte para ranqueamento. No exemplo acima, o gráfico de pirulito está ordenado. Isso permite você ver instantaneamente quais tópicos apresentam a melhor e pior marcação. Isso é mais difícil de perceber nos gráficos de aranha onde os tópicos não iniciam nem terminam.
