@@ -984,3 +984,7 @@ Os gráficos de aranha costumam ser crticiados por:
 -   Se você tem algumas poucas séries, use o facetamento com gráficos de barras ou de pirulito para ajudar a resolver o problema.
 
 ![](images/download%20(8)-02.png){fig-align="center"}
+
+-   Se você tem muitas séries, ou se suas variáveis não tem a mesma escala, então a melhor opção provavelmente é mudar para um gráfico de coordenadas paralelas.
+
+![](images/download%20(9)-01.png){fig-align="center"}
