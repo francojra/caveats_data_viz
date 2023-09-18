@@ -951,18 +951,20 @@ Com mais que duas ou três séries, é uma boa prática usar múltiplas pequenas
 
 Os gráficos de aranha costumam ser crticiados por:
 
--   Layout circular = mais difíceis de ler. Valores quantitativos ficam muitos mais fáceis de serem comparados quando eles estão sulcados ao longo de um simples eixo vertical ou horizontal. Essa abordagem também serve para outros layouts circulares. Compare as figuras abaixo que consideram os dados de apenas um estudante. Fica mais fácil de comparar valores em um gráfico de barras, e mais acuradamente.
+-   *Layout circular = mais difíceis de ler* - Valores quantitativos ficam muitos mais fáceis de serem comparados quando eles estão sulcados ao longo de um simples eixo vertical ou horizontal. Essa abordagem também serve para outros layouts circulares. Compare as figuras abaixo que consideram os dados de apenas um estudante. Fica mais fácil de comparar valores em um gráfico de barras, e mais acuradamente.
 
 ![](images/download%20(2)-12.png){fig-align="center"}
 
 ![](images/download%20(3)-11.png){fig-align="center"}
 
--   Suporte para ranqueamento. No exemplo acima, o gráfico de pirulito está ordenado. Isso permite você ver instantaneamente quais tópicos apresentam a melhor e pior marcação. Isso é mais difícil de perceber nos gráficos de aranha onde os tópicos não iniciam nem terminam.
+-   *Suporte para ranqueamento* - No exemplo acima, o gráfico de pirulito está ordenado. Isso permite você ver instantaneamente quais tópicos apresentam a melhor e pior marcação. Isso é mais difícil de perceber nos gráficos de aranha onde os tópicos não iniciam nem terminam.
 
--   A ordem das categorias influenciam no impacto da visualização. Os leitores dos gráficos de aranha irão provavelmente focar na forma observada. Isso pode confundir e distrair o leitor devido as diferentes formas altamente dependerem da ordem das categorias em torno do gráfico. Veja esses gráficos que apresentam os mesmos dados mas ordens das categorias distintas.
+-   *Ordem das categorias influenciam no impacto da visualização* - Os leitores dos gráficos de aranha irão provavelmente focar na forma observada. Isso pode confundir e distrair o leitor devido as diferentes formas altamente dependerem da ordem das categorias em torno do gráfico. Veja esses gráficos que apresentam os mesmos dados mas ordens das categorias distintas.
 
 ![](images/download%20(4)-06.png){fig-align="center"}
 
--   Sobre escalas. Os gráficos de aranha exibem os valores de várias variáveis quantitativas, todas representadas sobre um eixo. Nos exemplos, a mesma escala e mesmas unidades são compartilhadas por todas as variáveis (ranking de 0 a 20). Também é possível exibir variáveis que são completamente diferentes. Nesse caso, não esqueça de mostrar uma escala óbvia para cada, caso contrário, o leitor esperará a mesma escala.
+-   *Escalas* - Os gráficos de aranha exibem os valores de várias variáveis quantitativas, todas representadas sobre um eixo. Nos exemplos, a mesma escala e mesmas unidades são compartilhadas por todas as variáveis (ranking de 0 a 20). Também é possível exibir variáveis que são completamente diferentes. Nesse caso, não esqueça de mostrar uma escala óbvia para cada, caso contrário, o leitor esperará a mesma escala.
+
+-   *Sobreplotagem* - apresentar mais que duas séries, pode tornar o gráfico inelegível. Evite isso e use pequenas múltiplas janelas para cada grupo.
 
 -   
