@@ -963,4 +963,6 @@ Os gráficos de aranha costumam ser crticiados por:
 
 ![](images/download%20(4)-06.png){fig-align="center"}
 
+-   Sobre escalas. Os gráficos de aranha exibem os valores de várias variáveis quantitativas, todas representadas sobre um eixo. Nos exemplos, a mesma escala e mesmas unidades são compartilhadas por todas as variáveis (ranking de 0 a 20). Também é possível exibir variáveis que são completamente diferentes. Nesse caso, não esqueça de mostrar uma escala óbvia para cada, caso contrário, o leitor esperará a mesma escala.
+
 -   
