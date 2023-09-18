@@ -967,4 +967,6 @@ Os gráficos de aranha costumam ser crticiados por:
 
 -   *Sobreplotagem* - apresentar mais que duas séries, pode tornar o gráfico inelegível. Evite isso e use pequenas múltiplas janelas para cada grupo.
 
--   
+-   *Super avaliação das diferenças* - a área da forma nos gráficos de aranha também aumenta quadraticamente mais que linearmente, que pode levar aos leitores pensar que pequenas mudanças são maiores do que elas realmente são. No seguinte exemplo, o estudante da esquerda tem o score de 7 em casa tópico. Por sua vez, o estudante da direita tem o score de 14 em cada tópico. Entretanto, a área da figura da direita parece ser mais que duas vezes maior que a área da figura da esquerda.
+
+![](images/download%20(5)-06.png){fig-align="center"}
