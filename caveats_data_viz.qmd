@@ -939,4 +939,6 @@ Vamos considerar os resultados de um exame de um estudante. Ele tem marcado pont
 
 #### Variação
 
-No gráfico anterior, apenas uma série é plotada, mostrando como um estudante performou. Uma tarefa comum é comparar vários indivíduos. Com poucas séries é possível mostrar cada grupo no mesmo gráfico.
+No gráfico anterior, apenas uma série é plotada, mostrando como um estudante performou. Uma tarefa comum é comparar vários indivíduos. Com poucas séries é possível mostrar cada grupo no mesmo gráfico. Aqui é bastante óbvio que Shirley globalmente performou melhor que Sonia, exceto em Sport, English e R-coding.
+
+![](images/download-15.png){fig-align="center"}
