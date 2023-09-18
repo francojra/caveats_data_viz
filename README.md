@@ -100,3 +100,8 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Seja consistente
 29. **O gráfico de aranha e seus alertas**
 - Definição
+30. **O gráfico de aranha e seus alertas**
+- Definição
+- Variação
+- Então qual o erro com esses gráficos?
+- Alternativas
