@@ -957,7 +957,7 @@ Os gráficos de aranha costumam ser crticiados por:
 
 ![](images/download%20(3)-11.png){fig-align="center"}
 
--   *Suporte para ranqueamento* - No exemplo acima, o gráfico de pirulito está ordenado. Isso permite você ver instantaneamente quais tópicos apresentam a melhor e pior marcação. Isso é mais difícil de perceber nos gráficos de aranha onde os tópicos não iniciam nem terminam.
+-   *Suporte para ranqueamento* - No exemplo acima, o gráfico de pirulito (lollipop) está ordenado. Isso permite você ver instantaneamente quais tópicos apresentam a melhor e pior marcação. Isso é mais difícil de perceber nos gráficos de aranha onde os tópicos não iniciam nem terminam.
 
 -   *Ordem das categorias influenciam no impacto da visualização* - Os leitores dos gráficos de aranha irão provavelmente focar na forma observada. Isso pode confundir e distrair o leitor devido as diferentes formas altamente dependerem da ordem das categorias em torno do gráfico. Veja esses gráficos que apresentam os mesmos dados mas ordens das categorias distintas.
 
@@ -970,3 +970,11 @@ Os gráficos de aranha costumam ser crticiados por:
 -   *Super avaliação das diferenças* - a área da forma nos gráficos de aranha também aumenta quadraticamente mais que linearmente, que pode levar aos leitores pensar que pequenas mudanças são maiores do que elas realmente são. No seguinte exemplo, o estudante da esquerda tem o score de 7 em casa tópico. Por sua vez, o estudante da direita tem o score de 14 em cada tópico. Entretanto, a área da figura da direita parece ser mais que duas vezes maior que a área da figura da esquerda.
 
 ![](images/download%20(5)-06.png){fig-align="center"}
+
+#### Alternativas
+
+-   Se você tem apenas uma séries de dados para exibir e todas são de variáveis quantitavivas com a mesma escala, então use um gráfico de barras ou de pirulito e ranqueie as variáveis.
+
+![](images/download%20(6)-06.png){fig-align="center"}
+
+-   
