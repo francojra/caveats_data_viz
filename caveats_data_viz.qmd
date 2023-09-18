@@ -946,3 +946,13 @@ No gráfico anterior, apenas uma série é plotada, mostrando como um estudante 
 Com mais que duas ou três séries, é uma boa prática usar múltiplas pequenas janelas para evitar sobreposição dos dados e desordem na figura. Cada estudante fica representado em um individual gráfico radar. Assim fica fácil entender as características de um indivíduo em específico, e observar por similaridades nas formas para encontrar estudantes com características parecidas.
 
 ![](images/download%20(1)-14.png){fig-align="center"}
+
+#### Então qual o erro com esses gráficos?
+
+Os gráficos de aranha costumam ser crticiados por:
+
+-   Layout circular = mais difíceis de ler. Valores quantitativos ficam muitos mais fáceis de serem comparados quando eles estão sulcados ao longo de um simples eixo vertical ou horizontal. Essa abordagem também serve para outros layouts circulares. Compare as figuras abaixo que consideram os dados de apenas um estudante. Fica mais fácil de comparar valores em um gráfico de barras, e mais acuradamente.
+
+![](images/download%20(2)-12.png){fig-align="center"}
+
+![](images/download%20(3)-11.png){fig-align="center"}
