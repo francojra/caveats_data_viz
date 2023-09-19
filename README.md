@@ -110,3 +110,4 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Para que serve?
 - Variação
 - Erros comuns
+32. **Anotação é crucial para visualização de dados**
