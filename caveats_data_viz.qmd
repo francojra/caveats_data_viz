@@ -1038,3 +1038,13 @@ Anotação é um componente crucial de uma boa visualização de dados. Isso pod
 Nossa atual atenção para olhar coisas online é, na média, menos que cinco segundos. Então, se você não pode prender a atenção de alguém em cinco segundos, você provavelmente irá perder o leitor. Adicionar uma anotação acurada pode ajudar bastante a segurar a atenção da sua audiência. Use palavras chaves, formas, cores e outros visuais para ajudar eles a irem direto ao ponto.
 
 Anotação é um conceito geral, e existem centenas de formas para adicionar anotações em um gráfico, dependendo do contexto. Vamos ver alguns exemplos.
+
+#### Exemplo 1
+
+O principal perigo de um gráfico de linhas é acabar como um gráfico de espaguete: muitos grupos nesse tipo de gráfico, resulta em uma figura confusa onde é difícil identificar padrões.
+
+![](images/download-16.png){fig-align="center"}
+
+Ao apresentar esse gráfico para a sua audiência, você provavelmente vai querer destacar um ponto principal. Vamos dizer que você esteja interessado em especificar a evolução do nome 'Amanda'. Então, faz mais sentido construir algo como isto:
+
+![](images/download%20(1)-15.png){fig-align="center"}
