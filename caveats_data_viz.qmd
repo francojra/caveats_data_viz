@@ -994,3 +994,7 @@ Os gráficos de aranha costumam ser crticiados por:
 #### Definição
 
 Um heatmap é uma representação gráfica de dados onde valores individuais contidos em uma matriz são representados através de cores. É um pouco como olhar uma tabela de dados.
+
+Aqui está um exemplo mostrando oito características gerais, como população e expectativa de vida, para cerca de 30 países em 2015.
+
+![](images/Sem%20t%C3%ADtulo.png){fig-align="center"}
