@@ -1048,3 +1048,15 @@ O principal perigo de um gráfico de linhas é acabar como um gráfico de espagu
 Ao apresentar esse gráfico para a sua audiência, você provavelmente vai querer destacar um ponto principal. Vamos dizer que você esteja interessado em especificar a evolução do nome 'Amanda'. Então, faz mais sentido construir algo como isto:
 
 ![](images/download%20(1)-15.png){fig-align="center"}
+
+#### Exemplo 2
+
+Aqui você pode ver que a anotação apresenta um papel chave:
+
+-   a linha que representa Blackpool é ligeiramente mais grossa, então ela se destaca um pouco mais;
+
+-   os histogramas são interessantes por causa das anotações. Note que a cor é consistente entre os gráficos;
+
+-   os valores das lacunas no início e no final da linha são escritos para que o leitor não precise fazer as contas de cabeça.
+
+![](images/download-17.jpeg){fig-align="center"}
