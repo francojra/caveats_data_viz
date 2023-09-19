@@ -1027,6 +1027,6 @@ Nota: neste heatmap, as características também são agrupadas. Por exemplo, ex
 
 -   Frequentemente é necessário normalizar os dados;
 
--   Use a análise de agrupamento e, assim, permute as linhas e colunas da matriz para colocar valores semelhantes próximos uns dos outros de acordo com o agrupamento;
+-   Na análise de agrupamento, é necessário permutar as linhas e colunas da matriz para colocar valores semelhantes próximos uns dos outros de acordo com o agrupamento;
 
 -   A paleta de cores é importante.
