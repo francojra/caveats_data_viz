@@ -998,3 +998,11 @@ Um heatmap é uma representação gráfica de dados onde valores individuais con
 Aqui está um exemplo mostrando oito características gerais, como população e expectativa de vida, para cerca de 30 países em 2015.
 
 ![](images/Sem%20t%C3%ADtulo.png){fig-align="center"}
+
+#### Para que serve?
+
+Heatmap é realmente útil para exibir uma visão geral de dados numéricos, não para extrair informações específicas dos dados. No gráfico acima, é possível verificar o grande tamanho populacional da índia e da China, por exemplo.
+
+Heatmap também é útil para exibir resultados de agrupamentos hierárquicos. Basicamente, os agrupamentos ajudam a verificar quais países são similares. O caminho comum para representar esses resultados é usar os dendogramas. Esses dendogramas podem ser desenhados no topo do heatmap.
+
+![](images/g2.png){fig-align="center"}
