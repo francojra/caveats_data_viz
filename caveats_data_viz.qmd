@@ -1016,3 +1016,9 @@ Nota: neste heatmap, as características também são agrupadas. Por exemplo, ex
 -   Nós vimos anteriormente que o heatmap é frequentemente usado para exibir os resultados de um algoritmo de agrupamento. Uma tarefa comum é comparar os resultados com as expectativas. Por exemplo, nós podemos checar se os países estão agrupados de acordo com o continentes deles usando barras coloridas.
 
 -   Para heatmap estáticos, uma prática comum é exibir os valores exatos de cada célula em números. De fato, é difícil traduzir uma cor em um número preciso.
+
+-   Heatmaps podem também ser usados para séries de tempo, onde existe um padrão regular no tempo.
+
+-   Heatmaps podem ser aplicados à matrizes de adjacência, como esta abaixo.
+
+![](images/1_gny0Hz4hd90zDeCyY0s72A.png){fig-align="center"}
