@@ -1036,3 +1036,5 @@ Nota: neste heatmap, as características também são agrupadas. Por exemplo, ex
 Anotação é um componente crucial de uma boa visualização de dados. Isso pode mudar de um gráfico chato para um gráfico com uma interessante e perspicaz informação. Visualização de dados é frequentemente separado em dois principais tipos: análise exploratória e explicativa. A anotação é usada para o primeiro tipo.
 
 Nossa atual atenção para olhar coisas online é, na média, menos que cinco segundos. Então, se você não pode prender a atenção de alguém em cinco segundos, você provavelmente irá perder o leitor. Adicionar uma anotação acurada pode ajudar bastante a segurar a atenção da sua audiência. Use palavras chaves, formas, cores e outros visuais para ajudar eles a irem direto ao ponto.
+
+Anotação é um conceito geral, e existem centenas de formas para adicionar anotações em um gráfico, dependendo do contexto. Vamos ver alguns exemplos.
