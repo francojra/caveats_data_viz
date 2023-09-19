@@ -1006,3 +1006,7 @@ Heatmap é realmente útil para exibir uma visão geral de dados numéricos, nã
 Heatmap também é útil para exibir resultados de agrupamentos hierárquicos. Basicamente, os agrupamentos ajudam a verificar quais países são similares. O caminho comum para representar esses resultados é usar os dendogramas. Esses dendogramas podem ser desenhados no topo do heatmap.
 
 ![](images/g2.png){fig-align="center"}
+
+Neste gráfico, Afeganistão, índia e Bolívia estão agrupados juntos. De fato, estes três países apresentam forte expansão, com muitas crianças por mulheres, mas alta taxa de mortalidade.
+
+Nota: neste heatmap, as características também são agrupadas. Por exemplo, expectativa de vida e mortalidade estão agrupadas juntos devido a elas serem altamente correlacionadas.
