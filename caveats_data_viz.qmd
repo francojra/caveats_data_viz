@@ -1010,3 +1010,9 @@ Heatmap também é útil para exibir resultados de agrupamentos hierárquicos. B
 Neste gráfico, Afeganistão, índia e Bolívia estão agrupados juntos. De fato, estes três países apresentam forte expansão, com muitas crianças por mulheres, mas alta taxa de mortalidade.
 
 Nota: neste heatmap, as características também são agrupadas. Por exemplo, expectativa de vida e mortalidade estão agrupadas juntos devido a elas serem altamente correlacionadas.
+
+#### Variação
+
+-   Nós vimos anteriormente que o heatmap é frequentemente usado para exibir os resultados de um algoritmo de agrupamento. Uma tarefa comum é comparar os resultados com as expectativas. Por exemplo, nós podemos checar se os países estão agrupados de acordo com o continentes deles usando barras coloridas.
+
+-   Para heatmap estáticos, uma prática comum é exibir os valores exatos de cada célula em números. De fato, é difícil traduzir uma cor em um número preciso.
