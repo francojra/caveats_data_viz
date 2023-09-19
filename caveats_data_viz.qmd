@@ -1030,3 +1030,7 @@ Nota: neste heatmap, as características também são agrupadas. Por exemplo, ex
 -   Na análise de agrupamento, é necessário permutar as linhas e colunas da matriz para colocar valores semelhantes próximos uns dos outros de acordo com o agrupamento;
 
 -   A paleta de cores é importante.
+
+### Anotação é crucial para visualização de dados
+
+Anotação é um componente crucial de uma boa visualização de dados. Isso pode mudar de um gráfico chato para um gráfico com uma interessante e perspicaz informação. Visualização de dados é frequentemente separado em dois principais tipos:
