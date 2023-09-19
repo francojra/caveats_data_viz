@@ -1022,3 +1022,11 @@ Nota: neste heatmap, as características também são agrupadas. Por exemplo, ex
 -   Heatmaps podem ser aplicados à matrizes de adjacência, como esta abaixo.
 
 ![](images/1_gny0Hz4hd90zDeCyY0s72A.png){fig-align="center"}
+
+#### Erros comuns
+
+-   Frequentemente é necessário normalizar os dados;
+
+-   Use a análise de agrupamento e, assim, permute as linhas e colunas da matriz para colocar valores semelhantes próximos uns dos outros de acordo com o agrupamento;
+
+-   A paleta de cores é importante.
