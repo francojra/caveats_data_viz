@@ -105,3 +105,8 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Variação
 - Então qual o erro com esses gráficos?
 - Alternativas
+31. **Heatmap**
+- Definição
+- Para que serve?
+- Variação
+- Erros comuns
