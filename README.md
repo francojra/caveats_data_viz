@@ -113,3 +113,5 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 32. **Anotação é crucial para visualização de dados**
 - Exemplo 1
 - Exemplo 2
+33. **Barras embrulhadas de Stephen Few: reflexões**
+- O medo do novo
