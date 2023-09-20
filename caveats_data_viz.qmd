@@ -1068,3 +1068,5 @@ Stephen Few apresentou essa semana outras formas inovadoras de visualizar dados:
 1.  **O medo do novo**
 
 Stephen criou os gráficos de barras embrulhadas para consertar problemas com treemaps. Eu confesso que a primeira vez que vi os gráficos de barras embrulhadas, eu não gostei delas. Mas foi isso o medo do novo? Eles claramente consertam um problema com os treemaps, mas inicialmente eu pensei, "Bem, treemaps são bons o suficiente, por que nós necessitamos de mais algo para consertar um pequeno problema?
+
+Mas e se Ben Schneiderman não inventasse as barras embrulhadas, e sim os treemaps na década de 1990? Estaríamos confortáveis com isso, agora, eu suspeito. E então imagine que Stephen Few apareça e resolva um problema com Wrapped Bars, fornecendo-nos o mapa da árvore. Será que minha reação ainda seria que o novo é inferior? Eu suspeito que sim. Isso é algo que sempre deve estar em mente quando avaliamos novos tipos de visualização.
