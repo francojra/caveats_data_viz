@@ -1075,4 +1075,8 @@ Com aquilo em mente. qual é o ponto ideal que as barras embrulhadas consertam? 
 
 ![](images/treemap-with-colour.png)
 
+É muito difícil responder isso. Agora cheque o gráfico de barras embrulhadas com 60 linhas para cada coluna.
 
+![](images/wrapped-bar-with-colour.png)
+
+Ficou muito mais fácil, não é? Eu estou interessado em saber o quão importante isso é para os usuários de ferramentas de visualização. Acho que nunca senti necessidade de um meio-termo entre o mapa da árvore e o gráfico de barras. Alternar entre os dois foi suficiente para mim até agora.
