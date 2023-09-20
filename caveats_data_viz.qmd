@@ -1080,3 +1080,9 @@ Com aquilo em mente. qual é o ponto ideal que as barras embrulhadas consertam? 
 ![](images/wrapped-bar-with-colour.png)
 
 Ficou muito mais fácil, não é? Eu estou interessado em saber o quão importante isso é para os usuários de ferramentas de visualização. Acho que nunca senti necessidade de um meio-termo entre o mapa da árvore e o gráfico de barras. Alternar entre os dois foi suficiente para mim até agora.
+
+2.  **Padrão Moire**
+
+O gráfico acima cria um padrão Moire que perturba meus olhos quando eu escaneio o gráfico. Eu recomendaria usar o lollipop para gráficos de barras embrulhadas: eles reduzem a quantidade de tinta enquanto preserva a ligação do ponto de volta ao eixo de origem. Aliás, o lollipop só deve ser usado quando a escala começa do zero. Se estiver mostrando um outro valor, então a linha deve se estnder por toda a área do gráfico.
+
+![](images/wrapped-with-colour-lollipop1.png)
