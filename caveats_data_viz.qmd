@@ -1077,7 +1077,7 @@ Com aquilo em mente. qual é o ponto ideal que as barras embrulhadas consertam? 
 
 É muito difícil responder isso. Agora cheque o gráfico de barras embrulhadas com 60 linhas para cada coluna.
 
-![](images/wrapped-bar-with-colour.png)
+![](images/wrapped-with-colour.png)
 
 Ficou muito mais fácil, não é? Eu estou interessado em saber o quão importante isso é para os usuários de ferramentas de visualização. Acho que nunca senti necessidade de um meio-termo entre o mapa da árvore e o gráfico de barras. Alternar entre os dois foi suficiente para mim até agora.
 
@@ -1090,3 +1090,9 @@ O gráfico acima cria um padrão Moire que perturba meus olhos quando eu escanei
 3.  **Valores negativos**
 
 Stephen aborda valores negativos e fornece um exemplo onde um pequeno número de valores são negativos. Isso funciona bem o suficiente e é uma melhoria dos treemaps. Deveria ser um exercício interessante para ver como ele funciona se os dados apresentam 50% de valores negativos.
+
+4.  **Minhas conclusões**
+
+O gráfico de barras embrulhadas tem vantagens definitivas sobre as visualizações de dados existentes, mas temo que, sejam quais forem, este tipo de visualização demorará a ser adotado.
+
+Espero que haja mais sucesso. Há momentos durante um ciclo de análise visual em que você deseja compreender os membros de classificação inferior de uma dimensão, e acredito que a barra agrupada pode ter mais valor nesse caso.
