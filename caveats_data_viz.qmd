@@ -1064,3 +1064,7 @@ Aqui você pode ver que a anotação apresenta um papel chave:
 ### Barras embrulhadas de Stephen Few: reflexões
 
 Stephen Few apresentou essa semana outras formas inovadoras de visualizar dados: barras agrupadas. Cheque esse artigo parama explicaçã do que elas sãodo porque que elas são úteis. Neste post eu quero discutor minhas reflexões sobre elas.
+
+1.  **O medo do novo**
+
+Stephen criou os gráficos de barras embrulhadas para consertar problemas com treemaps. Eu confesso que a primeira vez que vi os gráficos de barras embrulhadas, eu não gostei delas. Mas foi isso o medo do novo? Eles claramente consertam um problema com os treemaps, mas inicialmente eu pensei, "Bem, treemaps são bons o suficiente, por que nós necessitamos de mais algo para consertar um pequeno problema?
