@@ -115,3 +115,6 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Exemplo 2
 33. **Barras embrulhadas de Stephen Few: reflexões**
 - O medo do novo
+- Padrão Moire
+- Valores negativos
+- Minhas conclusões
