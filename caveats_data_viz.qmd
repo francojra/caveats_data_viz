@@ -1060,3 +1060,7 @@ Aqui você pode ver que a anotação apresenta um papel chave:
 -   os valores das lacunas no início e no final da linha são escritos para que o leitor não precise fazer as contas de cabeça.
 
 ![](images/download-17.jpeg){fig-align="center"}
+
+### Barras embrulhadas de Stephen Few: reflexões
+
+Stephen Few apresentou essa semana outras formas inovadoras de visualizar dados: barras agrupadas. Cheque esse artigo parama explicaçã do que elas sãodo porque que elas são úteis. Neste post eu quero discutor minhas reflexões sobre elas.
