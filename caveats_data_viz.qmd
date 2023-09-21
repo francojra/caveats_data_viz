@@ -1138,3 +1138,5 @@ Mas existem gráficos onde **a taxa de crescimento é mais importante que a muda
 Nem tanto, na verdade. Mapas são casos especiais: mais escuro significa mais e mais claro significa menos; mas é impossível para um ser humano normal ler os números subjacentes em um mapa apenas com base nas cores.
 
 Além disso, nosso número de paradas, o tipo de paradas e as cores específicas que usamos influenciam a forma como os dados serão percebidos.
+
+*Como tantas vezes no design de gráficos, vem abaixo o senso comum, pensar sobre o que nós queremos mostrar e a atitude geral para mostrar os dados com veracidade. Sabemos a diferença entre escala log e escala linear, e isso pode nos ajudar a fazer melhores escolhas na produção dos gráficos. Mas como regra geral, a escala linear irá trabalhar melhor na maior parte das vezes, especialmente quando nós estamos apresentando dados sobre pessoas.*
