@@ -1099,8 +1099,12 @@ Espero que haja mais sucesso. Há momentos durante um ciclo de análise visual e
 
 ### Como ler uma escala logarítmica
 
-A poucas semanas atrás, eu li um tweet que dizia "não compare a mudança de porcentagem em uma escala linear, use uma escala log ao invés disso. -50% (0,5×) é uma mudança tão grande quanto +100% (2×)." Ele inseriu dois mapas com os mesmos dados, mas um deles estava em escala linear (primeiro gráfico) enquanto o outro estava em escala logarítmica (segundo gráfico).
+A poucas semanas atrás, eu li um tweet do Mike Bostock que dizia "não compare a mudança de porcentagem em uma escala linear, use uma escala log ao invés disso. -50% (0,5×) é uma mudança tão grande quanto +100% (2×)." Ele inseriu dois mapas com os mesmos dados, mas um deles estava em escala linear (primeiro gráfico) enquanto o outro estava em escala logarítmica (segundo gráfico).
 
 ![](images/full-180614_log2-1-1536x995.png){fig-align="center"}
 
 ![](images/full-180614_log1-1-1536x995.png){fig-align="center"}
+
+Eu cocei minha cabeça. Por que -50% é tão grande quanto 100%? Eu não sou um gênio da matemática, então levei algum tempo para entender tudo. Neste gráfico exploraremos o que o autor do tweet quis dizer - e quando não seguir seus conselhos.
+
+Mike desenterrou os valores absolutos desses dados e publicou [esta excelente explicação](https://observablehq.com/@mbostock/methods-of-comparison-compared) sobre as diferentes maneiras de comparar dois valores entre si em um mapa. Basicamente, você pode parar de ler esta postagem do blog e ir para a dele.
