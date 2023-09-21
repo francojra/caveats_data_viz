@@ -1132,3 +1132,9 @@ Bem, isso depende do que nós queremos mostrar. (Sim, eu sei que isso é a respo
 **Se você quer mostrar como quantas pessoas são afetadas, nós devemos considerar mostrar essas mudanças nas porcentagens em uma escala linear**. Se nós mostramos as mudanças de pessoas com disordem no uso de álcool entre 1980 e 2014 em nossos primeiro e segundo condados na escala log, eles irão ser mostrados com a mesma distância de 0,301. Mas o número de pessoas afetadas é diferente: no primeiro condado, 2 pessoas a menos foram afetadas. No segundo condado, 4 pessoas a mais foram afetadas. Numa escala linear, a distância entre 2 e 4 será duas vezes maior. A mesma distância/unidade representa o mesmo número de pessoas (se a base numérica é a mesma). Então, por exemplo, um gráfico de desemprego, mostrando mudanças percentuais em uma escala linear, faz sentido.
 
 Mas existem gráficos onde **a taxa de crescimento é mais importante que a mudança na porcentagem**. Preços das ações são bons exemplos, desde que a mudança no preço é mais importante que o aumento no valor absoluto do dólar.
+
+#### Então o que deveríamos fazer de diferente na próxima vez que construirmos mapas?
+
+Nem tanto, na verdade. Mapas são casos especiais: mais escuro significa mais e mais claro significa menos; mas é impossível para um ser humano normal ler os números subjacentes em um mapa apenas com base nas cores.
+
+Além disso, nosso número de paradas, o tipo de paradas e as cores específicas que usamos influenciam a forma como os dados serão percebidos.
