@@ -1096,3 +1096,11 @@ Stephen aborda valores negativos e fornece um exemplo onde um pequeno número de
 O gráfico de barras embrulhadas tem vantagens definitivas sobre as visualizações de dados existentes, mas temo que, sejam quais forem, este tipo de visualização demorará a ser adotado.
 
 Espero que haja mais sucesso. Há momentos durante um ciclo de análise visual em que você deseja compreender os membros de classificação inferior de uma dimensão, e acredito que a barra agrupada pode ter mais valor nesse caso.
+
+### Como ler uma escala logarítmica
+
+A poucas semanas atrás, eu li um tweet que dizia "não compare a mudança de porcentagem em uma escala linear, use uma escala log ao invés disso. -50% (0,5×) é uma mudança tão grande quanto +100% (2×)." Ele inseriu dois mapas com os mesmos dados, mas um deles estava em escala linear (primeiro gráfico) enquanto o outro estava em escala logarítmica (segundo gráfico).
+
+![](images/full-180614_log2-1-1536x995.png){fig-align="center"}
+
+![](images/full-180614_log1-1-1536x995.png){fig-align="center"}
