@@ -1110,3 +1110,11 @@ Eu cocei minha cabeça. Por que -50% é tão grande quanto 100%? Eu não sou um 
 *Mike desenterrou os valores absolutos desses dados e publicou [esta excelente explicação](https://observablehq.com/@mbostock/methods-of-comparison-compared) sobre as diferentes maneiras de comparar dois valores entre si em um mapa. Basicamente, você pode parar de ler esta postagem do blog e ir para a dele.*
 
 Vamos imaginar um condado com quatro pessoas com trastorno por uso de álcool em 1980. Em 2014, esse número caiu para duas pessoas. Pode-se dizer que o número de 1980 caiu pela metade, ou que diminiu 50%, ou pode-se dizer que o número é 0,5x maior (já que 4 × 0,5 = 2; é o mesmo que 4 ÷ 2).
+
+Vamos imaginar um segundo condado em que o número de 1980 de quatro pessoas duplicou para oito casos em 2014. Esse aumento foi de 100%. O número é agora duas vezes maior (4 x 2 = 8).
+
+Então por que Mike Bostock declarou que 50% e 100% apresentam a mesma mudança? Porque a mudança não é na porcentagem, mas na taxa. A mudança na porcentagem para os condados é -50% e 100%. Mas a mudança na taxa é x2 e ⁒2. A diferença entre 2 e 4, e a diferença entre 4 e 8 é a mesma para a taxa de crescimento.
+
+E isso é o motivo do Mike querer mostrar esses números na escala log. Apenas sobre uma escala log, as mudanças nas mesmas taxas são mostradas com as mesmas distâncias.
+
+![](images/full-180614_log-1536x552.png){fig-align="center"}
