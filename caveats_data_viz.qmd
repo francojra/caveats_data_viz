@@ -1120,3 +1120,7 @@ E isso é o motivo do Mike querer mostrar esses números na escala log. Apenas s
 ![](images/full-180614_log-1536x552.png){fig-align="center"}
 
 Nós podemos calcular isso. Você lembra da fórmula do log~10~x usada na escola? Nós podemos colocar nossos "0,5x" e "2x" nela. Se nós fazemos isso, a porcentagem muda de -50% (= 0,5x) em nosso primeiro condado mostrando uma distância de -0,301 (=log~10~0,5). Já o aumento de 100% no nosso segundo condado irá mostrar uma distância de 0,301 (=log~10~2). Boom! -0,301 e 0,301 estão à mesma distância de zero.
+
+Aqui estão todas as mudanças nas porcentagens que nós podemos ver no mapa, mas mostrado em um gráfico de dispersão que compara a porcentagem linear com os valores de log.
+
+![](images/log.png)
