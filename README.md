@@ -118,3 +118,6 @@ Documento com conjunto de ressalvas que devem ser tomadas na produção de gráf
 - Padrão Moire
 - Valores negativos
 - Minhas conclusões
+34. **Como ler uma escala logarítmica**
+- Então o Mike Bostock está certo? Nós não deveríamos mais mostrar mudanças nas porcentagens sobre a escala linear?
+- Então o que deveríamos fazer de diferente na próxima vez que construirmos mapas?
